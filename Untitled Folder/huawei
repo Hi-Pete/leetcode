@@ -1,0 +1,118 @@
+| 状态 | 题目                                                         | 通过率 | 难度 | 出题指数 |
+| :--- | :----------------------------------------------------------- | :----- | :--- | :------- |
+|      | [5. 最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring/) | 33.2%  | 中等 |          |
+|      | [3. 无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/) | 36.5%  | 中等 |          |
+|      | [1. 两数之和](https://leetcode-cn.com/problems/two-sum/)     | 50.3%  | 简单 |          |
+|      | [200. 岛屿数量](https://leetcode-cn.com/problems/number-of-islands/) | 52.5%  | 中等 |          |
+|      | [2. 两数相加](https://leetcode-cn.com/problems/add-two-numbers/) | 39.6%  | 中等 |          |
+|      | [20. 有效的括号](https://leetcode-cn.com/problems/valid-parentheses/) | 43.7%  | 简单 |          |
+|      | [739. 每日温度](https://leetcode-cn.com/problems/daily-temperatures/) | 66.1%  | 中等 |          |
+|      | [221. 最大正方形](https://leetcode-cn.com/problems/maximal-square/) | 44.4%  | 中等 |          |
+|      | [15. 三数之和](https://leetcode-cn.com/problems/3sum/)       | 31.0%  | 中等 |          |
+|      | [7. 整数反转](https://leetcode-cn.com/problems/reverse-integer/) | 35.0%  | 简单 |          |
+|      | [45. 跳跃游戏 II](https://leetcode-cn.com/problems/jump-game-ii/) | 38.4%  | 困难 |          |
+|      | [84. 柱状图中最大的矩形](https://leetcode-cn.com/problems/largest-rectangle-in-histogram/) | 42.8%  | 困难 |          |
+|      | [820. 单词的压缩编码](https://leetcode-cn.com/problems/short-encoding-of-words/) | 50.0%  | 中等 |          |
+|      | [394. 字符串解码](https://leetcode-cn.com/problems/decode-string/) | 54.1%  | 中等 |          |
+|      | [46. 全排列](https://leetcode-cn.com/problems/permutations/) | 77.6%  | 中等 |          |
+|      | [406. 根据身高重建队列](https://leetcode-cn.com/problems/queue-reconstruction-by-height/) | 72.3%  | 中等 |          |
+|      | [53. 最大子序和](https://leetcode-cn.com/problems/maximum-subarray/) | 53.4%  | 简单 |          |
+|      | [32. 最长有效括号](https://leetcode-cn.com/problems/longest-valid-parentheses/) | 34.6%  | 困难 |          |
+|      | [55. 跳跃游戏](https://leetcode-cn.com/problems/jump-game/)  | 41.8%  | 中等 |          |
+|      | [43. 字符串相乘](https://leetcode-cn.com/problems/multiply-strings/) | 44.7%  | 中等 |          |
+|      | [70. 爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/) | 51.5%  | 简单 |          |
+|      | [37. 解数独](https://leetcode-cn.com/problems/sudoku-solver/) | 67.0%  | 困难 |          |
+|      | [85. 最大矩形](https://leetcode-cn.com/problems/maximal-rectangle/) | 51.7%  | 困难 |          |
+|      | [21. 合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/) | 65.4%  | 简单 |          |
+|      | [11. 盛最多水的容器](https://leetcode-cn.com/problems/container-with-most-water/) | 64.8%  | 中等 |          |
+|      | [72. 编辑距离](https://leetcode-cn.com/problems/edit-distance/) | 60.5%  | 困难 |          |
+|      | [9. 回文数](https://leetcode-cn.com/problems/palindrome-number/) | 58.7%  | 简单 |          |
+|      | [206. 反转链表](https://leetcode-cn.com/problems/reverse-linked-list/) | 71.4%  | 简单 |          |
+|      | [135. 分发糖果](https://leetcode-cn.com/problems/candy/)     | 48.2%  | 困难 |          |
+|      | [554. 砖墙](https://leetcode-cn.com/problems/brick-wall/)    | 39.9%  | 中等 |          |
+|      | [42. 接雨水](https://leetcode-cn.com/problems/trapping-rain-water/) | 54.4%  | 困难 |          |
+|      | [93. 复原 IP 地址](https://leetcode-cn.com/problems/restore-ip-addresses/) | 51.7%  | 中等 |          |
+|      | [344. 反转字符串](https://leetcode-cn.com/problems/reverse-string/) | 74.4%  | 简单 |          |
+|      | [4. 寻找两个正序数组的中位数](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/) | 39.6%  | 困难 |          |
+|      | [329. 矩阵中的最长递增路径](https://leetcode-cn.com/problems/longest-increasing-path-in-a-matrix/) | 46.6%  | 困难 |          |
+|      | [54. 螺旋矩阵](https://leetcode-cn.com/problems/spiral-matrix/) | 42.9%  | 中等 |          |
+|      | [56. 合并区间](https://leetcode-cn.com/problems/merge-intervals/) | 44.4%  | 中等 |          |
+|      | [6. Z 字形变换](https://leetcode-cn.com/problems/zigzag-conversion/) | 49.6%  | 中等 |          |
+|      | [1109. 航班预订统计](https://leetcode-cn.com/problems/corporate-flight-bookings/) | 50.2%  | 中等 |          |
+|      | [48. 旋转图像](https://leetcode-cn.com/problems/rotate-image/) | 72.3%  | 中等 |          |
+|      | [679. 24 点游戏](https://leetcode-cn.com/problems/24-game/)  | 54.4%  | 困难 |          |
+|      | [8. 字符串转换整数 (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi/) | 21.3%  | 中等 |          |
+|      | [26. 删除排序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/) | 52.9%  | 简单 |          |
+|      | [121. 买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/) | 56.1%  | 简单 |          |
+|      | [64. 最小路径和](https://leetcode-cn.com/problems/minimum-path-sum/) | 68.2%  | 中等 |          |
+|      | [322. 零钱兑换](https://leetcode-cn.com/problems/coin-change/) | 42.6%  | 中等 |          |
+|      | [76. 最小覆盖子串](https://leetcode-cn.com/problems/minimum-window-substring/) | 40.7%  | 困难 |          |
+|      | [179. 最大数](https://leetcode-cn.com/problems/largest-number/) | 37.9%  | 中等 |          |
+|      | [224. 基本计算器](https://leetcode-cn.com/problems/basic-calculator/) | 39.0%  | 困难 |          |
+|      | [62. 不同路径](https://leetcode-cn.com/problems/unique-paths/) | 64.3%  | 中等 |          |
+|      | [101. 对称二叉树](https://leetcode-cn.com/problems/symmetric-tree/) | 53.7%  | 简单 |          |
+|      | [146. LRU 缓存机制](https://leetcode-cn.com/problems/lru-cache/) | 51.8%  | 中等 |          |
+|      | [17. 电话号码的字母组合](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/) | 56.0%  | 中等 |          |
+|      | [91. 解码方法](https://leetcode-cn.com/problems/decode-ways/) | 25.7%  | 中等 |          |
+|      | [151. 翻转字符串里的单词](https://leetcode-cn.com/problems/reverse-words-in-a-string/) | 45.5%  | 中等 |          |
+|      | [剑指 Offer 62. 圆圈中最后剩下的数字](https://leetcode-cn.com/problems/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof/) | 64.1%  | 简单 |          |
+|      | [557. 反转字符串中的单词 III](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/) | 73.8%  | 简单 |          |
+|      | [22. 括号生成](https://leetcode-cn.com/problems/generate-parentheses/) | 76.9%  | 中等 |          |
+|      | [204. 计数质数](https://leetcode-cn.com/problems/count-primes/) | 38.4%  | 简单 |          |
+|      | [289. 生命游戏](https://leetcode-cn.com/problems/game-of-life/) | 75.0%  | 中等 |          |
+|      | [402. 移掉K位数字](https://leetcode-cn.com/problems/remove-k-digits/) | 33.0%  | 中等 |          |
+|      | [39. 组合总和](https://leetcode-cn.com/problems/combination-sum/) | 72.1%  | 中等 |          |
+|      | [14. 最长公共前缀](https://leetcode-cn.com/problems/longest-common-prefix/) | 39.2%  | 简单 |          |
+|      | [88. 合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/) | 49.4%  | 简单 |          |
+|      | [415. 字符串相加](https://leetcode-cn.com/problems/add-strings/) | 51.9%  | 简单 |          |
+|      | [547. 省份数量](https://leetcode-cn.com/problems/number-of-provinces/) | 61.5%  | 中等 |          |
+|      | [647. 回文子串](https://leetcode-cn.com/problems/palindromic-substrings/) | 65.0%  | 中等 |          |
+|      | [23. 合并K个升序链表](https://leetcode-cn.com/problems/merge-k-sorted-lists/) | 54.3%  | 困难 |          |
+|      | [316. 去除重复字母](https://leetcode-cn.com/problems/remove-duplicate-letters/) | 47.7%  | 中等 |          |
+|      | [面试题 01.07. 旋转矩阵](https://leetcode-cn.com/problems/rotate-matrix-lcci/) | 75.9%  | 中等 |          |
+|      | [剑指 Offer 38. 字符串的排列](https://leetcode-cn.com/problems/zi-fu-chuan-de-pai-lie-lcof/) | 55.6%  | 中等 |          |
+|      | [763. 划分字母区间](https://leetcode-cn.com/problems/partition-labels/) | 76.6%  | 中等 |          |
+|      | [860. 柠檬水找零](https://leetcode-cn.com/problems/lemonade-change/) | 58.3%  | 简单 |          |
+|      | [141. 环形链表](https://leetcode-cn.com/problems/linked-list-cycle/) | 50.9%  | 简单 |          |
+|      | [300. 最长递增子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence/) | 47.3%  | 中等 |          |
+|      | [695. 岛屿的最大面积](https://leetcode-cn.com/problems/max-area-of-island/) | 64.8%  | 中等 |          |
+|      | [69. x 的平方根](https://leetcode-cn.com/problems/sqrtx/)    | 39.2%  | 简单 |          |
+|      | [442. 数组中重复的数据](https://leetcode-cn.com/problems/find-all-duplicates-in-an-array/) | 68.6%  | 中等 |          |
+|      | [94. 二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/) | 74.9%  | 中等 |          |
+|      | [227. 基本计算器 II](https://leetcode-cn.com/problems/basic-calculator-ii/) | 38.9%  | 中等 |          |
+|      | [120. 三角形最小路径和](https://leetcode-cn.com/problems/triangle/) | 67.2%  | 中等 |          |
+|      | [98. 验证二叉搜索树](https://leetcode-cn.com/problems/validate-binary-search-tree/) | 33.6%  | 中等 |          |
+|      | [355. 设计推特](https://leetcode-cn.com/problems/design-twitter/) | 40.6%  | 中等 |          |
+|      | [387. 字符串中的第一个唯一字符](https://leetcode-cn.com/problems/first-unique-character-in-a-string/) | 51.4%  | 简单 |          |
+|      | [1160. 拼写单词](https://leetcode-cn.com/problems/find-words-that-can-be-formed-by-characters/) | 68.7%  | 简单 |          |
+|      | [59. 螺旋矩阵 II](https://leetcode-cn.com/problems/spiral-matrix-ii/) | 78.5%  | 中等 |          |
+|      | [102. 二叉树的层序遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/) | 64.1%  | 中等 |          |
+|      | [160. 相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/) | 57.6%  | 简单 |          |
+|      | [468. 验证IP地址](https://leetcode-cn.com/problems/validate-ip-address/) | 23.5%  | 中等 |          |
+|      | [面试题 08.07. 无重复字符串的排列组合](https://leetcode-cn.com/problems/permutation-i-lcci/) | 81.0%  | 中等 |          |
+|      | [134. 加油站](https://leetcode-cn.com/problems/gas-station/) | 57.0%  | 中等 |          |
+|      | [剑指 Offer 24. 反转链表](https://leetcode-cn.com/problems/fan-zhuan-lian-biao-lcof/) | 74.3%  | 简单 |          |
+|      | [12. 整数转罗马数字](https://leetcode-cn.com/problems/integer-to-roman/) | 64.9%  | 中等 |          |
+|      | [28. 实现 strStr()](https://leetcode-cn.com/problems/implement-strstr/) | 39.7%  | 简单 |          |
+|      | [104. 二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/) | 75.8%  | 简单 |          |
+|      | [148. 排序链表](https://leetcode-cn.com/problems/sort-list/) | 67.5%  | 中等 |          |
+|      | [403. 青蛙过河](https://leetcode-cn.com/problems/frog-jump/) | 39.6%  | 困难 |          |
+|      | [30. 串联所有单词的子串](https://leetcode-cn.com/problems/substring-with-concatenation-of-all-words/) | 34.0%  | 困难 |          |
+|      | [741. 摘樱桃](https://leetcode-cn.com/problems/cherry-pickup/) | 35.1%  | 困难 |          |
+|      | [445. 两数相加 II](https://leetcode-cn.com/problems/add-two-numbers-ii/) | 58.3%  | 中等 |          |
+
+|      | [18. 四数之和](https://leetcode-cn.com/problems/4sum/)       | 39.9% | 中等 |      |
+| ---- | ------------------------------------------------------------ | ----- | ---- | ---- |
+|      | [283. 移动零](https://leetcode-cn.com/problems/move-zeroes/) | 63.7% | 简单 |      |
+|      | [1162. 地图分析](https://leetcode-cn.com/problems/as-far-from-land-as-possible/) | 46.7% | 中等 |      |
+|      | [10. 正则表达式匹配](https://leetcode-cn.com/problems/regular-expression-matching/) | 30.8% | 困难 |      |
+|      | [202. 快乐数](https://leetcode-cn.com/problems/happy-number/) | 61.2% | 简单 |      |
+|      | [78. 子集](https://leetcode-cn.com/problems/subsets/)        | 79.5% | 中等 |      |
+|      | [44. 通配符匹配](https://leetcode-cn.com/problems/wildcard-matching/) | 31.9% | 困难 |      |
+|      | [617. 合并二叉树](https://leetcode-cn.com/problems/merge-two-binary-trees/) | 78.8% | 简单 |      |
+|      | [518. 零钱兑换 II](https://leetcode-cn.com/problems/coin-change-2/) | 56.9% | 中等 |      |
+|      | [215. 数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/) | 64.8% | 中等 |      |
+|      | [剑指 Offer 45. 把数组排成最小的数](https://leetcode-cn.com/problems/ba-shu-zu-pai-cheng-zui-xiao-de-shu-lcof/) | 56.1% | 中等 |      |
+|      | [剑指 Offer 07. 重建二叉树](https://leetcode-cn.com/problems/zhong-jian-er-cha-shu-lcof/) | 68.9% | 中等 |      |
+|      | [1293. 网格中的最短路径](https://leetcode-cn.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/) | 35.5% | 困难 |      |
+|      | [410. 分割数组的最大值](https://leetcode-cn.com/problems/split-array-largest-sum/) | 54.2% | 困难 |      |

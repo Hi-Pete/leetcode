@@ -1,0 +1,32 @@
+| 状态   | 题号                                                         | 题目                                                         | 通过率 | 难度 | 出现频率 |
+| :----- | :----------------------------------------------------------- | :----------------------------------------------------------- | :----- | :--- | :------- |
+| 未尝试 | [#22](https://leetcode-cn.com/problems/generate-parentheses/) | [括号生成](https://leetcode-cn.com/problems/generate-parentheses/) | 76.9%  | 中等 |          |
+| 未尝试 | [#46](https://leetcode-cn.com/problems/permutations/)        | [全排列](https://leetcode-cn.com/problems/permutations/)     | 77.6%  | 中等 |          |
+| 未尝试 | [#37](https://leetcode-cn.com/problems/sudoku-solver/)       | [解数独](https://leetcode-cn.com/problems/sudoku-solver/)    | 67.0%  | 困难 |          |
+| 未尝试 | [#17](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/) | [电话号码的字母组合](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/) | 56.0%  | 中等 |          |
+| 未尝试 | [#10](https://leetcode-cn.com/problems/regular-expression-matching/) | [正则表达式匹配](https://leetcode-cn.com/problems/regular-expression-matching/) | 30.8%  | 困难 |          |
+| 未尝试 | [#93](https://leetcode-cn.com/problems/restore-ip-addresses/) | [复原 IP 地址](https://leetcode-cn.com/problems/restore-ip-addresses/) | 51.7%  | 中等 |          |
+| 未尝试 | [#51](https://leetcode-cn.com/problems/n-queens/)            | [N 皇后](https://leetcode-cn.com/problems/n-queens/)         | 73.7%  | 困难 |          |
+| 未尝试 | [#78](https://leetcode-cn.com/problems/subsets/)             | [子集](https://leetcode-cn.com/problems/subsets/)            | 79.5%  | 中等 |          |
+| 未尝试 | [#131](https://leetcode-cn.com/problems/palindrome-partitioning/) | [分割回文串](https://leetcode-cn.com/problems/palindrome-partitioning/) | 70.4%  | 中等 |          |
+| 未尝试 | [#39](https://leetcode-cn.com/problems/combination-sum/)     | [组合总和](https://leetcode-cn.com/problems/combination-sum/) | 72.1%  | 中等 |          |
+| 未尝试 | [#77](https://leetcode-cn.com/problems/combinations/)        | [组合](https://leetcode-cn.com/problems/combinations/)       | 76.5%  | 中等 |          |
+| 未尝试 | [#357](https://leetcode-cn.com/problems/count-numbers-with-unique-digits/) | [计算各个位数不同的数字个数](https://leetcode-cn.com/problems/count-numbers-with-unique-digits/) | 51.8%  | 中等 |          |
+| 未尝试 | [#47](https://leetcode-cn.com/problems/permutations-ii/)     | [全排列 II](https://leetcode-cn.com/problems/permutations-ii/) | 62.8%  | 中等 |          |
+| 未尝试 | [#89](https://leetcode-cn.com/problems/gray-code/)           | [格雷编码](https://leetcode-cn.com/problems/gray-code/)      | 69.9%  | 中等 |          |
+| 未尝试 | [#401](https://leetcode-cn.com/problems/binary-watch/)       | [二进制手表](https://leetcode-cn.com/problems/binary-watch/) | 53.4%  | 简单 |          |
+| 未尝试 | [#216](https://leetcode-cn.com/problems/combination-sum-iii/) | [组合总和 III](https://leetcode-cn.com/problems/combination-sum-iii/) | 73.8%  | 中等 |          |
+| 未尝试 | [#79](https://leetcode-cn.com/problems/word-search/)         | [单词搜索](https://leetcode-cn.com/problems/word-search/)    | 44.1%  | 中等 |          |
+| 未尝试 | [#526](https://leetcode-cn.com/problems/beautiful-arrangement/) | [优美的排列](https://leetcode-cn.com/problems/beautiful-arrangement/) | 64.4%  | 中等 |          |
+| 未尝试 | [#60](https://leetcode-cn.com/problems/permutation-sequence/) | [排列序列](https://leetcode-cn.com/problems/permutation-sequence/) | 52.0%  | 困难 |          |
+| 未尝试 | [#90](https://leetcode-cn.com/problems/subsets-ii/)          | [子集 II](https://leetcode-cn.com/problems/subsets-ii/)      | 61.7%  | 中等 |          |
+| 未尝试 | [#306](https://leetcode-cn.com/problems/additive-number/)    | [累加数](https://leetcode-cn.com/problems/additive-number/)  | 33.3%  | 中等 |          |
+| 未尝试 | [#351](https://leetcode-cn.com/problems/android-unlock-patterns/) | [安卓系统手势解锁](https://leetcode-cn.com/problems/android-unlock-patterns/) | 58.0%  | 中等 |          |
+| 未尝试 | [#52](https://leetcode-cn.com/problems/n-queens-ii/)         | [N皇后 II](https://leetcode-cn.com/problems/n-queens-ii/)    | 82.2%  | 困难 |          |
+| 未尝试 | [#40](https://leetcode-cn.com/problems/combination-sum-ii/)  | [组合总和 II](https://leetcode-cn.com/problems/combination-sum-ii/) | 64.1%  | 中等 |          |
+| 未尝试 | [#44](https://leetcode-cn.com/problems/wildcard-matching/)   | [通配符匹配](https://leetcode-cn.com/problems/wildcard-matching/) | 31.9%  | 困难 |          |
+| 未尝试 | [#140](https://leetcode-cn.com/problems/word-break-ii/)      | [单词拆分 II](https://leetcode-cn.com/problems/word-break-ii/) | 44.4%  | 困难 |          |
+| 未尝试 | [#212](https://leetcode-cn.com/problems/word-search-ii/)     | [单词搜索 II](https://leetcode-cn.com/problems/word-search-ii/) | 45.5%  | 困难 |          |
+| 未尝试 | [#126](https://leetcode-cn.com/problems/word-ladder-ii/)     | [单词接龙 II](https://leetcode-cn.com/problems/word-ladder-ii/) | 39.2%  | 困难 |          |
+| 未尝试 | [#691](https://leetcode-cn.com/problems/stickers-to-spell-word/) | [贴纸拼词](https://leetcode-cn.com/problems/stickers-to-spell-word/) | 48.1%  | 困难 |          |
+| 未尝试 | [#211](https://leetcode-cn.com/problems/design-add-and-search-words-data-structure/) | [添加与搜索单词 - 数据结构设计](https://leetcode-cn.com/problems/design-add-and-search-words-data-structure/) | 47.7%  | 中等 |          |

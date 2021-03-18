@@ -1,0 +1,72 @@
+| 状态       | 题号                                                         | 题目                                                         | 通过率    | 难度     | 出现频率 |
+| :--------- | :----------------------------------------------------------- | :----------------------------------------------------------- | :-------- | :------- | :------- |
+| 未尝试     | [#3](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/) | [无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/) | 36.5%     | 中等     |          |
+| **已通过** | [#5](https://leetcode-cn.com/problems/longest-palindromic-substring/) | [最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring/) | 33.2%     | 中等     |          |
+| 未尝试     | [#22](https://leetcode-cn.com/problems/generate-parentheses/) | [括号生成](https://leetcode-cn.com/problems/generate-parentheses/) | 76.9%     | 中等     |          |
+| 未尝试     | [#6](https://leetcode-cn.com/problems/zigzag-conversion/)    | [Z 字形变换](https://leetcode-cn.com/problems/zigzag-conversion/) | 49.6%     | 中等     |          |
+| 未尝试     | [#13](https://leetcode-cn.com/problems/roman-to-integer/)    | [罗马数字转整数](https://leetcode-cn.com/problems/roman-to-integer/) | 62.5%     | 简单     |          |
+| 未尝试     | [#38](https://leetcode-cn.com/problems/count-and-say/)       | [外观数列](https://leetcode-cn.com/problems/count-and-say/)  | 57.3%     | 简单     |          |
+| 未尝试     | [#17](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/) | [电话号码的字母组合](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/) | 56.0%     | 中等     |          |
+| **已通过** | [#415](https://leetcode-cn.com/problems/add-strings/)        | [字符串相加](https://leetcode-cn.com/problems/add-strings/)  | 51.9%     | 简单     |          |
+| 未尝试     | [#10](https://leetcode-cn.com/problems/regular-expression-matching/) | [正则表达式匹配](https://leetcode-cn.com/problems/regular-expression-matching/) | 30.8%     | 困难     |          |
+| 未尝试     | [#93](https://leetcode-cn.com/problems/restore-ip-addresses/) | [复原 IP 地址](https://leetcode-cn.com/problems/restore-ip-addresses/) | 51.7%     | 中等     |          |
+| 未尝试     | [#14](https://leetcode-cn.com/problems/longest-common-prefix/) | [最长公共前缀](https://leetcode-cn.com/problems/longest-common-prefix/) | 39.2%     | 简单     |          |
+| **已通过** | [#20](https://leetcode-cn.com/problems/valid-parentheses/)   | [有效的括号](https://leetcode-cn.com/problems/valid-parentheses/) | 43.7%     | 简单     |          |
+| 未尝试     | [#72](https://leetcode-cn.com/problems/edit-distance/)       | [编辑距离](https://leetcode-cn.com/problems/edit-distance/)  | 60.5%     | 困难     |          |
+| 未尝试     | [#12](https://leetcode-cn.com/problems/integer-to-roman/)    | [整数转罗马数字](https://leetcode-cn.com/problems/integer-to-roman/) | 64.9%     | 中等     |          |
+| 未尝试     | [#67](https://leetcode-cn.com/problems/add-binary/)          | [二进制求和](https://leetcode-cn.com/problems/add-binary/)   | 54.5%     | 简单     |          |
+| 未尝试     | [#43](https://leetcode-cn.com/problems/multiply-strings/)    | [字符串相乘](https://leetcode-cn.com/problems/multiply-strings/) | 44.7%     | 中等     |          |
+| 未尝试     | [#32](https://leetcode-cn.com/problems/longest-valid-parentheses/) | [最长有效括号](https://leetcode-cn.com/problems/longest-valid-parentheses/) | 34.6%     | 困难     |          |
+| 未尝试     | [#30](https://leetcode-cn.com/problems/substring-with-concatenation-of-all-words/) | [串联所有单词的子串](https://leetcode-cn.com/problems/substring-with-concatenation-of-all-words/) | 34.0%     | 困难     |          |
+| 未尝试     | [#557](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/) | [反转字符串中的单词 III](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/) | 73.8%     | 简单     |          |
+| 未尝试     | [#97](https://leetcode-cn.com/problems/interleaving-string/) | [交错字符串](https://leetcode-cn.com/problems/interleaving-string/) | 45.8%     | 困难     |          |
+| 未尝试     | [#214](https://leetcode-cn.com/problems/shortest-palindrome/) | [最短回文串](https://leetcode-cn.com/problems/shortest-palindrome/) | 36.8%     | 困难     |          |
+| 未尝试     | [#521](https://leetcode-cn.com/problems/longest-uncommon-subsequence-i/) | [最长特殊序列 Ⅰ](https://leetcode-cn.com/problems/longest-uncommon-subsequence-i/) | 70.2%     | 简单     |          |
+| 未尝试     | [#76](https://leetcode-cn.com/problems/minimum-window-substring/) | [最小覆盖子串](https://leetcode-cn.com/problems/minimum-window-substring/) | 40.7%     | 困难     |          |
+| 未尝试     | [#632](https://leetcode-cn.com/problems/smallest-range-covering-elements-from-k-lists/) | [最小区间](https://leetcode-cn.com/problems/smallest-range-covering-elements-from-k-lists/) | 59.4%     | 困难     |          |
+| 未尝试     | [#564](https://leetcode-cn.com/problems/find-the-closest-palindrome/) | [寻找最近的回文数](https://leetcode-cn.com/problems/find-the-closest-palindrome/) | 17.1%     | 困难     |          |
+| 未尝试     | [#344](https://leetcode-cn.com/problems/reverse-string/)     | [反转字符串](https://leetcode-cn.com/problems/reverse-string/) | 74.4%     | 简单     |          |
+| 未尝试     | [#28](https://leetcode-cn.com/problems/implement-strstr/)    | [实现 strStr()](https://leetcode-cn.com/problems/implement-strstr/) | 39.8%     | 简单     |          |
+| 未尝试     | [#1736](https://leetcode-cn.com/problems/latest-time-by-replacing-hidden-digits/) | [替换隐藏数字得到的最晚时间](https://leetcode-cn.com/problems/latest-time-by-replacing-hidden-digits/) | 40.3%     | 简单     |          |
+| 未尝试     | [#49](https://leetcode-cn.com/problems/group-anagrams/)      | [字母异位词分组](https://leetcode-cn.com/problems/group-anagrams/) | 65.5%     | 中等     |          |
+| 未尝试     | [#87](https://leetcode-cn.com/problems/scramble-string/)     | [扰乱字符串](https://leetcode-cn.com/problems/scramble-string/) | 49.0%     | 困难     |          |
+| 未尝试     | [#541](https://leetcode-cn.com/problems/reverse-string-ii/)  | [反转字符串 II](https://leetcode-cn.com/problems/reverse-string-ii/) | 57.0%     | 简单     |          |
+| 未尝试     | [#316](https://leetcode-cn.com/problems/remove-duplicate-letters/) | [去除重复字母](https://leetcode-cn.com/problems/remove-duplicate-letters/) | 47.7%     | 中等     |          |
+| 未尝试     | [#647](https://leetcode-cn.com/problems/palindromic-substrings/) | [回文子串](https://leetcode-cn.com/problems/palindromic-substrings/) | 65.0%     | 中等     |          |
+| 未尝试     | [#8](https://leetcode-cn.com/problems/string-to-integer-atoi/) | [字符串转换整数 (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi/) | 21.3%     | 中等     |          |
+| 未尝试     | [#657](https://leetcode-cn.com/problems/robot-return-to-origin/) | [机器人能否返回原点](https://leetcode-cn.com/problems/robot-return-to-origin/) | 78.1%     | 简单     |          |
+| 未尝试     | [#336](https://leetcode-cn.com/problems/palindrome-pairs/)   | [回文对](https://leetcode-cn.com/problems/palindrome-pairs/) | 39.9%     | 困难     |          |
+| 未尝试     | [#71](https://leetcode-cn.com/problems/simplify-path/)       | [简化路径](https://leetcode-cn.com/problems/simplify-path/)  | 41.6%     | 中等     |          |
+| 未尝试     | [#583](https://leetcode-cn.com/problems/delete-operation-for-two-strings/) | [两个字符串的删除操作](https://leetcode-cn.com/problems/delete-operation-for-two-strings/) | 52.6%     | 中等     |          |
+| 未尝试     | [#58](https://leetcode-cn.com/problems/length-of-last-word/) | [最后一个单词的长度](https://leetcode-cn.com/problems/length-of-last-word/) | 34.2%     | 简单     |          |
+| 未尝试     | [#730](https://leetcode-cn.com/problems/count-different-palindromic-subsequences/) | [统计不同回文子序列](https://leetcode-cn.com/problems/count-different-palindromic-subsequences/) | 47.6%     | 困难     |          |
+| 未尝试     | [#929](https://leetcode-cn.com/problems/unique-email-addresses/) | [独特的电子邮件地址](https://leetcode-cn.com/problems/unique-email-addresses/) | 64.1%     | 简单     |          |
+| 未尝试     | [#804](https://leetcode-cn.com/problems/unique-morse-code-words/) | [唯一摩尔斯密码词](https://leetcode-cn.com/problems/unique-morse-code-words/) | 76.4%     | 简单     |          |
+| 未尝试     | [#696](https://leetcode-cn.com/problems/count-binary-substrings/) | [计数二进制子串](https://leetcode-cn.com/problems/count-binary-substrings/) | 62.5%     | 简单     |          |
+| 未尝试     | [#65](https://leetcode-cn.com/problems/valid-number/)        | [有效数字](https://leetcode-cn.com/problems/valid-number/)   | 21.8%     | 困难     |          |
+| 未尝试     | [#459](https://leetcode-cn.com/problems/repeated-substring-pattern/) | [重复的子字符串](https://leetcode-cn.com/problems/repeated-substring-pattern/) | 51.1%     | 简单     |          |
+| 未尝试     | [#556](https://leetcode-cn.com/problems/next-greater-element-iii/) | [下一个更大元素 III](https://leetcode-cn.com/problems/next-greater-element-iii/) | 31.3%     | 中等     |          |
+| 未尝试     | [#385](https://leetcode-cn.com/problems/mini-parser/)        | [迷你语法分析器](https://leetcode-cn.com/problems/mini-parser/) | 40.5%     | 中等     |          |
+| 未尝试     | **[#125](https://leetcode-cn.com/problems/valid-palindrome/)** | **[验证回文串](https://leetcode-cn.com/problems/valid-palindrome/)** | **47.0%** | **简单** |          |
+| **已通过** | [#91](https://leetcode-cn.com/problems/decode-ways/)         | [解码方法](https://leetcode-cn.com/problems/decode-ways/)    | 25.7%     | 中等     |          |
+| 未尝试     | [#686](https://leetcode-cn.com/problems/repeated-string-match/) | [重复叠加字符串匹配](https://leetcode-cn.com/problems/repeated-string-match/) | 34.9%     | 中等     |          |
+| 未尝试     | [#383](https://leetcode-cn.com/problems/ransom-note/)        | [赎金信](https://leetcode-cn.com/problems/ransom-note/)      | 56.2%     | 简单     |          |
+| 未尝试     | [#345](https://leetcode-cn.com/problems/reverse-vowels-of-a-string/) | [反转字符串中的元音字母](https://leetcode-cn.com/problems/reverse-vowels-of-a-string/) | 51.5%     | 简单     |          |
+| 未尝试     | [#680](https://leetcode-cn.com/problems/valid-palindrome-ii/) | [验证回文字符串 Ⅱ](https://leetcode-cn.com/problems/valid-palindrome-ii/) | 40.0%     | 简单     |          |
+| 未尝试     | [#115](https://leetcode-cn.com/problems/distinct-subsequences/) | [不同的子序列](https://leetcode-cn.com/problems/distinct-subsequences/) | 50.1%     | 困难     |          |
+| 未尝试     | [#44](https://leetcode-cn.com/problems/wildcard-matching/)   | [通配符匹配](https://leetcode-cn.com/problems/wildcard-matching/) | 31.9%     | 困难     |          |
+| 未尝试     | [#539](https://leetcode-cn.com/problems/minimum-time-difference/) | [最小时间差](https://leetcode-cn.com/problems/minimum-time-difference/) | 58.1%     | 中等     |          |
+| 未尝试     | [#443](https://leetcode-cn.com/problems/string-compression/) | [压缩字符串](https://leetcode-cn.com/problems/string-compression/) | 41.7%     | 中等     |          |
+| 未尝试     | [#537](https://leetcode-cn.com/problems/complex-number-multiplication/) | [复数乘法](https://leetcode-cn.com/problems/complex-number-multiplication/) | 70.5%     | 中等     |          |
+| 未尝试     | [#553](https://leetcode-cn.com/problems/optimal-division/)   | [最优除法](https://leetcode-cn.com/problems/optimal-division/) | 59.6%     | 中等     |          |
+| 未尝试     | [#273](https://leetcode-cn.com/problems/integer-to-english-words/) | [整数转换英文表示](https://leetcode-cn.com/problems/integer-to-english-words/) | 30.0%     | 困难     |          |
+| 未尝试     | [#434](https://leetcode-cn.com/problems/number-of-segments-in-a-string/) | [字符串中的单词数](https://leetcode-cn.com/problems/number-of-segments-in-a-string/) | 37.0%     | 简单     |          |
+| 未尝试     | [#736](https://leetcode-cn.com/problems/parse-lisp-expression/) | [Lisp 语法解析](https://leetcode-cn.com/problems/parse-lisp-expression/) | 44.4%     | 困难     |          |
+| 未尝试     | [#68](https://leetcode-cn.com/problems/text-justification/)  | [文本左右对齐](https://leetcode-cn.com/problems/text-justification/) | 45.8%     | 困难     |          |
+| 未尝试     | [#387](https://leetcode-cn.com/problems/first-unique-character-in-a-string/) | [字符串中的第一个唯一字符](https://leetcode-cn.com/problems/first-unique-character-in-a-string/) | 51.4%     | 简单     |          |
+| 未尝试     | [#165](https://leetcode-cn.com/problems/compare-version-numbers/) | [比较版本号](https://leetcode-cn.com/problems/compare-version-numbers/) | 45.2%     | 中等     |          |
+| 未尝试     | [#606](https://leetcode-cn.com/problems/construct-string-from-binary-tree/) | [根据二叉树创建字符串](https://leetcode-cn.com/problems/construct-string-from-binary-tree/) | 55.7%     | 简单     |          |
+| 未尝试     | [#227](https://leetcode-cn.com/problems/basic-calculator-ii/) | [基本计算器 II](https://leetcode-cn.com/problems/basic-calculator-ii/) | 38.9%     | 中等     |          |
+| 未尝试     | [#126](https://leetcode-cn.com/problems/word-ladder-ii/)     | [单词接龙 II](https://leetcode-cn.com/problems/word-ladder-ii/) | 39.2%     | 困难     |          |
+| 未尝试     | [#520](https://leetcode-cn.com/problems/detect-capital/)     | [检测大写字母](https://leetcode-cn.com/problems/detect-capital/) | 55.9%     | 简单     |          |
+| 未尝试     | [#678](https://leetcode-cn.com/problems/valid-parenthesis-string/) | [有效的括号字符串](https://leetcode-cn.com/problems/valid-parenthesis-string/) | 33.9%     | 中等     |          |

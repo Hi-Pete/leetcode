@@ -1,0 +1,28 @@
+| 状态       | 题号                                                         | 题目                                                         | 通过率 | 难度 | 出现频率 |
+| :--------- | :----------------------------------------------------------- | :----------------------------------------------------------- | :----- | :--- | :------- |
+| 未尝试     | [#2](https://leetcode-cn.com/problems/add-two-numbers/)      | [两数相加](https://leetcode-cn.com/problems/add-two-numbers/) | 39.6%  | 中等 |          |
+| **已通过** | [#21](https://leetcode-cn.com/problems/merge-two-sorted-lists/) | [合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/) | 65.4%  | 简单 |          |
+| **已通过** | [#206](https://leetcode-cn.com/problems/reverse-linked-list/) | [反转链表](https://leetcode-cn.com/problems/reverse-linked-list/) | 71.4%  | 简单 |          |
+| 未尝试     | [#24](https://leetcode-cn.com/problems/swap-nodes-in-pairs/) | [两两交换链表中的节点](https://leetcode-cn.com/problems/swap-nodes-in-pairs/) | 69.2%  | 中等 |          |
+| **已通过** | [#25](https://leetcode-cn.com/problems/reverse-nodes-in-k-group/) | [K 个一组翻转链表](https://leetcode-cn.com/problems/reverse-nodes-in-k-group/) | 64.2%  | 困难 |          |
+| **已通过** | [#92](https://leetcode-cn.com/problems/reverse-linked-list-ii/) | [反转链表 II](https://leetcode-cn.com/problems/reverse-linked-list-ii/) | 52.4%  | 中等 |          |
+| 未尝试     | [#23](https://leetcode-cn.com/problems/merge-k-sorted-lists/) | [合并K个升序链表](https://leetcode-cn.com/problems/merge-k-sorted-lists/) | 54.3%  | 困难 |          |
+| 未尝试     | [#148](https://leetcode-cn.com/problems/sort-list/)          | [排序链表](https://leetcode-cn.com/problems/sort-list/)      | 67.5%  | 中等 |          |
+| 未尝试     | [#143](https://leetcode-cn.com/problems/reorder-list/)       | [重排链表](https://leetcode-cn.com/problems/reorder-list/)   | 59.5%  | 中等 |          |
+| 未尝试     | [#86](https://leetcode-cn.com/problems/partition-list/)      | [分隔链表](https://leetcode-cn.com/problems/partition-list/) | 62.5%  | 中等 |          |
+| 未尝试     | [#237](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/) | [删除链表中的节点](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/) | 84.0%  | 简单 |          |
+| 未尝试     | [#19](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/) | [删除链表的倒数第 N 个结点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/) | 41.1%  | 中等 |          |
+| 未尝试     | [#445](https://leetcode-cn.com/problems/add-two-numbers-ii/) | [两数相加 II](https://leetcode-cn.com/problems/add-two-numbers-ii/) | 58.3%  | 中等 |          |
+| 未尝试     | [#109](https://leetcode-cn.com/problems/convert-sorted-list-to-binary-search-tree/) | [有序链表转换二叉搜索树](https://leetcode-cn.com/problems/convert-sorted-list-to-binary-search-tree/) | 76.2%  | 中等 |          |
+| 未尝试     | [#203](https://leetcode-cn.com/problems/remove-linked-list-elements/) | [移除链表元素](https://leetcode-cn.com/problems/remove-linked-list-elements/) | 47.0%  | 简单 |          |
+| 未尝试     | [#82](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/) | [删除排序链表中的重复元素 II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/) | 50.3%  | 中等 |          |
+| 未尝试     | [#83](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/) | [删除排序链表中的重复元素](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/) | 52.1%  | 简单 |          |
+| **已通过** | [#234](https://leetcode-cn.com/problems/palindrome-linked-list/) | [回文链表](https://leetcode-cn.com/problems/palindrome-linked-list/) | 45.5%  | 简单 |          |
+| 未尝试     | [#138](https://leetcode-cn.com/problems/copy-list-with-random-pointer/) | [复制带随机指针的链表](https://leetcode-cn.com/problems/copy-list-with-random-pointer/) | 60.2%  | 中等 |          |
+| **已通过** | [#141](https://leetcode-cn.com/problems/linked-list-cycle/)  | [环形链表](https://leetcode-cn.com/problems/linked-list-cycle/) | 50.9%  | 简单 |          |
+| 未尝试     | [#147](https://leetcode-cn.com/problems/insertion-sort-list/) | [对链表进行插入排序](https://leetcode-cn.com/problems/insertion-sort-list/) | 67.1%  | 中等 |          |
+| 未尝试     | [#61](https://leetcode-cn.com/problems/rotate-list/)         | [旋转链表](https://leetcode-cn.com/problems/rotate-list/)    | 40.7%  | 中等 |          |
+| 未尝试     | [#160](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/) | [相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/) | 57.6%  | 简单 |          |
+| 未尝试     | [#328](https://leetcode-cn.com/problems/odd-even-linked-list/) | [奇偶链表](https://leetcode-cn.com/problems/odd-even-linked-list/) | 65.7%  | 中等 |          |
+| **已通过** | [#142](https://leetcode-cn.com/problems/linked-list-cycle-ii/) | [环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii/) | 54.4%  | 中等 |          |
+| 未尝试     | [#725](https://leetcode-cn.com/problems/split-linked-list-in-parts/) | [分隔链表](https://leetcode-cn.com/problems/split-linked-list-in-parts/) | 55.8%  | 中等 |          |

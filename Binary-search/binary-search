@@ -1,0 +1,48 @@
+| 状态       | 题号                                                         | 题目                                                         | 通过率 | 难度 | 出现频率 |
+| :--------- | :----------------------------------------------------------- | :----------------------------------------------------------- | :----- | :--- | :------- |
+| 未尝试     | [#4](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/) | [寻找两个正序数组的中位数](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/) | 39.6%  | 困难 |          |
+| 未尝试     | [#167](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/) | [两数之和 II - 输入有序数组](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/) | 57.5%  | 简单 |          |
+| 未尝试     | [#287](https://leetcode-cn.com/problems/find-the-duplicate-number/) | [寻找重复数](https://leetcode-cn.com/problems/find-the-duplicate-number/) | 66.4%  | 中等 |          |
+| 未尝试     | [#315](https://leetcode-cn.com/problems/count-of-smaller-numbers-after-self/) | [计算右侧小于当前元素的个数](https://leetcode-cn.com/problems/count-of-smaller-numbers-after-self/) | 42.2%  | 困难 |          |
+| 未尝试     | [#349](https://leetcode-cn.com/problems/intersection-of-two-arrays/) | [两个数组的交集](https://leetcode-cn.com/problems/intersection-of-two-arrays/) | 73.5%  | 简单 |          |
+| **已通过** | [#300](https://leetcode-cn.com/problems/longest-increasing-subsequence/) | [最长递增子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence/) | 47.3%  | 中等 |          |
+| 未尝试     | [#718](https://leetcode-cn.com/problems/maximum-length-of-repeated-subarray/) | [最长重复子数组](https://leetcode-cn.com/problems/maximum-length-of-repeated-subarray/) | 54.9%  | 中等 |          |
+| 未尝试     | [#33](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/) | [搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/) | 40.6%  | 中等 |          |
+| 未尝试     | [#327](https://leetcode-cn.com/problems/count-of-range-sum/) | [区间和的个数](https://leetcode-cn.com/problems/count-of-range-sum/) | 43.1%  | 困难 |          |
+| 未尝试     | [#410](https://leetcode-cn.com/problems/split-array-largest-sum/) | [分割数组的最大值](https://leetcode-cn.com/problems/split-array-largest-sum/) | 54.2%  | 困难 |          |
+| 未尝试     | [#378](https://leetcode-cn.com/problems/kth-smallest-element-in-a-sorted-matrix/) | [有序矩阵中第 K 小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-sorted-matrix/) | 63.2%  | 中等 |          |
+| 未尝试     | [#29](https://leetcode-cn.com/problems/divide-two-integers/) | [两数相除](https://leetcode-cn.com/problems/divide-two-integers/) | 20.4%  | 中等 |          |
+| 未尝试     | [#50](https://leetcode-cn.com/problems/powx-n/)              | [Pow(x, n)](https://leetcode-cn.com/problems/powx-n/)        | 37.3%  | 中等 |          |
+| 未尝试     | [#363](https://leetcode-cn.com/problems/max-sum-of-rectangle-no-larger-than-k/) | [矩形区域不超过 K 的最大数值和](https://leetcode-cn.com/problems/max-sum-of-rectangle-no-larger-than-k/) | 40.2%  | 困难 |          |
+| 未尝试     | [#454](https://leetcode-cn.com/problems/4sum-ii/)            | [四数相加 II](https://leetcode-cn.com/problems/4sum-ii/)     | 58.5%  | 中等 |          |
+| 未尝试     | [#69](https://leetcode-cn.com/problems/sqrtx/)               | [x 的平方根](https://leetcode-cn.com/problems/sqrtx/)        | 39.2%  | 简单 |          |
+| 未尝试     | [#209](https://leetcode-cn.com/problems/minimum-size-subarray-sum/) | [长度最小的子数组](https://leetcode-cn.com/problems/minimum-size-subarray-sum/) | 45.1%  | 中等 |          |
+| 未尝试     | [#174](https://leetcode-cn.com/problems/dungeon-game/)       | [地下城游戏](https://leetcode-cn.com/problems/dungeon-game/) | 48.3%  | 困难 |          |
+| 未尝试     | [#222](https://leetcode-cn.com/problems/count-complete-tree-nodes/) | [完全二叉树的节点个数](https://leetcode-cn.com/problems/count-complete-tree-nodes/) | 76.9%  | 中等 |          |
+| 未尝试     | [#475](https://leetcode-cn.com/problems/heaters/)            | [供暖器](https://leetcode-cn.com/problems/heaters/)          | 31.8%  | 中等 |          |
+| 未尝试     | [#35](https://leetcode-cn.com/problems/search-insert-position/) | [搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/) | 47.0%  | 简单 |          |
+| 未尝试     | [#354](https://leetcode-cn.com/problems/russian-doll-envelopes/) | [俄罗斯套娃信封问题](https://leetcode-cn.com/problems/russian-doll-envelopes/) | 39.1%  | 困难 |          |
+| 未尝试     | [#352](https://leetcode-cn.com/problems/data-stream-as-disjoint-intervals/) | [将数据流变为多个不相交区间](https://leetcode-cn.com/problems/data-stream-as-disjoint-intervals/) | 57.6%  | 困难 |          |
+| 未尝试     | [#392](https://leetcode-cn.com/problems/is-subsequence/)     | [判断子序列](https://leetcode-cn.com/problems/is-subsequence/) | 50.8%  | 简单 |          |
+| 未尝试     | [#350](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/) | [两个数组的交集 II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/) | 53.9%  | 简单 |          |
+| 未尝试     | [#668](https://leetcode-cn.com/problems/kth-smallest-number-in-multiplication-table/) | [乘法表中第k小的数](https://leetcode-cn.com/problems/kth-smallest-number-in-multiplication-table/) | 49.3%  | 困难 |          |
+| 未尝试     | [#374](https://leetcode-cn.com/problems/guess-number-higher-or-lower/) | [猜数字大小](https://leetcode-cn.com/problems/guess-number-higher-or-lower/) | 47.1%  | 简单 |          |
+| 未尝试     | [#34](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | 42.3%  | 中等 |          |
+| 未尝试     | [#493](https://leetcode-cn.com/problems/reverse-pairs/)      | [翻转对](https://leetcode-cn.com/problems/reverse-pairs/)    | 33.9%  | 困难 |          |
+| 未尝试     | [#540](https://leetcode-cn.com/problems/single-element-in-a-sorted-array/) | [有序数组中的单一元素](https://leetcode-cn.com/problems/single-element-in-a-sorted-array/) | 59.2%  | 中等 |          |
+| 未尝试     | [#162](https://leetcode-cn.com/problems/find-peak-element/)  | [寻找峰值](https://leetcode-cn.com/problems/find-peak-element/) | 48.4%  | 中等 |          |
+| 未尝试     | [#153](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/) | [寻找旋转排序数组中的最小值](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/) | 52.4%  | 中等 |          |
+| 未尝试     | [#240](https://leetcode-cn.com/problems/search-a-2d-matrix-ii/) | [搜索二维矩阵 II](https://leetcode-cn.com/problems/search-a-2d-matrix-ii/) | 44.1%  | 中等 |          |
+| 未尝试     | [#719](https://leetcode-cn.com/problems/find-k-th-smallest-pair-distance/) | [找出第 k 小的距离对](https://leetcode-cn.com/problems/find-k-th-smallest-pair-distance/) | 35.2%  | 困难 |          |
+| 未尝试     | [#436](https://leetcode-cn.com/problems/find-right-interval/) | [寻找右区间](https://leetcode-cn.com/problems/find-right-interval/) | 48.1%  | 中等 |          |
+| 未尝试     | [#81](https://leetcode-cn.com/problems/search-in-rotated-sorted-array-ii/) | [搜索旋转排序数组 II](https://leetcode-cn.com/problems/search-in-rotated-sorted-array-ii/) | 36.9%  | 中等 |          |
+| **已通过** | [#230](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst/) | [二叉搜索树中第K小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst/) | 73.0%  | 中等 |          |
+| 未尝试     | [#367](https://leetcode-cn.com/problems/valid-perfect-square/) | [有效的完全平方数](https://leetcode-cn.com/problems/valid-perfect-square/) | 43.7%  | 简单 |          |
+| 未尝试     | [#483](https://leetcode-cn.com/problems/smallest-good-base/) | [最小好进制](https://leetcode-cn.com/problems/smallest-good-base/) | 42.4%  | 困难 |          |
+| 未尝试     | [#644](https://leetcode-cn.com/problems/maximum-average-subarray-ii/) | [子数组最大平均数 II](https://leetcode-cn.com/problems/maximum-average-subarray-ii/) | 37.9%  | 困难 |          |
+| 未尝试     | [#278](https://leetcode-cn.com/problems/first-bad-version/)  | [第一个错误的版本](https://leetcode-cn.com/problems/first-bad-version/) | 42.3%  | 简单 |          |
+| 未尝试     | [#74](https://leetcode-cn.com/problems/search-a-2d-matrix/)  | [搜索二维矩阵](https://leetcode-cn.com/problems/search-a-2d-matrix/) | 40.5%  | 中等 |          |
+| 未尝试     | [#441](https://leetcode-cn.com/problems/arranging-coins/)    | [排列硬币](https://leetcode-cn.com/problems/arranging-coins/) | 42.0%  | 简单 |          |
+| 未尝试     | [#154](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array-ii/) | [寻找旋转排序数组中的最小值 II](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array-ii/) | 50.5%  | 困难 |          |
+| 未尝试     | [#658](https://leetcode-cn.com/problems/find-k-closest-elements/) | [找到 K 个最接近的元素](https://leetcode-cn.com/problems/find-k-closest-elements/) | 44.5%  | 中等 |          |
+| 未尝试     | [#275](https://leetcode-cn.com/problems/h-index-ii/)         | [H 指数 II](https://leetcode-cn.com/problems/h-index-ii/)    | 40.9%  | 中等 |          |

@@ -1,0 +1,22 @@
+| 状态   | 题号                                                         | 题目                                                         | 通过率 | 难度 | 出现频率 |
+| :----- | :----------------------------------------------------------- | :----------------------------------------------------------- | :----- | :--- | :------- |
+| 未尝试 | [#23](https://leetcode-cn.com/problems/merge-k-sorted-lists/) | [合并K个升序链表](https://leetcode-cn.com/problems/merge-k-sorted-lists/) | 54.3%  | 困难 |          |
+| 未尝试 | [#407](https://leetcode-cn.com/problems/trapping-rain-water-ii/) | [接雨水 II](https://leetcode-cn.com/problems/trapping-rain-water-ii/) | 46.2%  | 困难 |          |
+| 未尝试 | [#264](https://leetcode-cn.com/problems/ugly-number-ii/)     | [丑数 II](https://leetcode-cn.com/problems/ugly-number-ii/)  | 55.2%  | 中等 |          |
+| 未尝试 | [#218](https://leetcode-cn.com/problems/the-skyline-problem/) | [天际线问题](https://leetcode-cn.com/problems/the-skyline-problem/) | 45.8%  | 困难 |          |
+| 未尝试 | [#215](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/) | [数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/) | 64.8%  | 中等 |          |
+| 未尝试 | [#313](https://leetcode-cn.com/problems/super-ugly-number/)  | [超级丑数](https://leetcode-cn.com/problems/super-ugly-number/) | 64.1%  | 中等 |          |
+| 未尝试 | [#378](https://leetcode-cn.com/problems/kth-smallest-element-in-a-sorted-matrix/) | [有序矩阵中第 K 小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-sorted-matrix/) | 63.2%  | 中等 |          |
+| 未尝试 | [#778](https://leetcode-cn.com/problems/swim-in-rising-water/) | [水位上升的泳池中游泳](https://leetcode-cn.com/problems/swim-in-rising-water/) | 60.6%  | 困难 |          |
+| 已通过 | [#347](https://leetcode-cn.com/problems/top-k-frequent-elements/) | [前 K 个高频元素](https://leetcode-cn.com/problems/top-k-frequent-elements/) | 62.0%  | 中等 |          |
+| 未尝试 | [#355](https://leetcode-cn.com/problems/design-twitter/)     | [设计推特](https://leetcode-cn.com/problems/design-twitter/) | 40.6%  | 中等 |          |
+| 未尝试 | [#295](https://leetcode-cn.com/problems/find-median-from-data-stream/) | [数据流的中位数](https://leetcode-cn.com/problems/find-median-from-data-stream/) | 51.0%  | 困难 |          |
+| 未尝试 | [#719](https://leetcode-cn.com/problems/find-k-th-smallest-pair-distance/) | [找出第 k 小的距离对](https://leetcode-cn.com/problems/find-k-th-smallest-pair-distance/) | 35.2%  | 困难 |          |
+| 未尝试 | [#659](https://leetcode-cn.com/problems/split-array-into-consecutive-subsequences/) | [分割数组为连续子序列](https://leetcode-cn.com/problems/split-array-into-consecutive-subsequences/) | 54.3%  | 中等 |          |
+| 未尝试 | [#502](https://leetcode-cn.com/problems/ipo/)                | [IPO](https://leetcode-cn.com/problems/ipo/)                 | 41.0%  | 困难 |          |
+| 已通过 | [#239](https://leetcode-cn.com/problems/sliding-window-maximum/) | [滑动窗口最大值](https://leetcode-cn.com/problems/sliding-window-maximum/) | 49.6%  | 困难 |          |
+| 未尝试 | [#253](https://leetcode-cn.com/problems/meeting-rooms-ii/)   | [会议室 II](https://leetcode-cn.com/problems/meeting-rooms-ii/) | 47.6%  | 中等 |          |
+| 未尝试 | [#373](https://leetcode-cn.com/problems/find-k-pairs-with-smallest-sums/) | [查找和最小的K对数字](https://leetcode-cn.com/problems/find-k-pairs-with-smallest-sums/) | 43.3%  | 中等 |          |
+| 未尝试 | [#451](https://leetcode-cn.com/problems/sort-characters-by-frequency/) | [根据字符出现频率排序](https://leetcode-cn.com/problems/sort-characters-by-frequency/) | 66.6%  | 中等 |          |
+| 未尝试 | [#692](https://leetcode-cn.com/problems/top-k-frequent-words/) | [前K个高频单词](https://leetcode-cn.com/problems/top-k-frequent-words/) | 52.5%  | 中等 |          |
+| 未尝试 | [#358](https://leetcode-cn.com/problems/rearrange-string-k-distance-apart/) | [K 距离间隔重排字符串](https://leetcode-cn.com/problems/rearrange-string-k-distance-apart/) | 34.3%  | 困难 |          |

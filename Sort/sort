@@ -1,0 +1,18 @@
+| 排序   |                                                              |                                                              |       |      |      |
+| ------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ----- | ---- | ---- |
+| 未尝试 | [#148](https://leetcode-cn.com/problems/sort-list/)          | [排序链表](https://leetcode-cn.com/problems/sort-list/)      | 67.5% | 中等 |      |
+| 未尝试 | [#56](https://leetcode-cn.com/problems/merge-intervals/)     | [合并区间](https://leetcode-cn.com/problems/merge-intervals/) | 44.4% | 中等 |      |
+| 未尝试 | [#179](https://leetcode-cn.com/problems/largest-number/)     | [最大数](https://leetcode-cn.com/problems/largest-number/)   | 37.9% | 中等 |      |
+| 未尝试 | [#315](https://leetcode-cn.com/problems/count-of-smaller-numbers-after-self/) | [计算右侧小于当前元素的个数](https://leetcode-cn.com/problems/count-of-smaller-numbers-after-self/) | 42.2% | 困难 |      |
+| 未尝试 | [#349](https://leetcode-cn.com/problems/intersection-of-two-arrays/) | [两个数组的交集](https://leetcode-cn.com/problems/intersection-of-two-arrays/) | 73.5% | 简单 |      |
+| 未尝试 | [#327](https://leetcode-cn.com/problems/count-of-range-sum/) | [区间和的个数](https://leetcode-cn.com/problems/count-of-range-sum/) | 43.1% | 困难 |      |
+| 未尝试 | [#75](https://leetcode-cn.com/problems/sort-colors/)         | [颜色分类](https://leetcode-cn.com/problems/sort-colors/)    | 57.6% | 中等 |      |
+| 未尝试 | [#57](https://leetcode-cn.com/problems/insert-interval/)     | [插入区间](https://leetcode-cn.com/problems/insert-interval/) | 40.3% | 中等 |      |
+| 未尝试 | [#147](https://leetcode-cn.com/problems/insertion-sort-list/) | [对链表进行插入排序](https://leetcode-cn.com/problems/insertion-sort-list/) | 67.1% | 中等 |      |
+| 未尝试 | [#164](https://leetcode-cn.com/problems/maximum-gap/)        | [最大间距](https://leetcode-cn.com/problems/maximum-gap/)    | 61.2% | 困难 |      |
+| 未尝试 | [#324](https://leetcode-cn.com/problems/wiggle-sort-ii/)     | [摆动排序 II](https://leetcode-cn.com/problems/wiggle-sort-ii/) | 36.9% | 中等 |      |
+| 未尝试 | [#350](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/) | [两个数组的交集 II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/) | 53.9% | 简单 |      |
+| 未尝试 | [#242](https://leetcode-cn.com/problems/valid-anagram/)      | [有效的字母异位词](https://leetcode-cn.com/problems/valid-anagram/) | 63.6% | 简单 |      |
+| 未尝试 | [#493](https://leetcode-cn.com/problems/reverse-pairs/)      | [翻转对](https://leetcode-cn.com/problems/reverse-pairs/)    | 33.9% | 困难 |      |
+| 未尝试 | [#220](https://leetcode-cn.com/problems/contains-duplicate-iii/) | [存在重复元素 III](https://leetcode-cn.com/problems/contains-duplicate-iii/) | 26.6% | 中等 |      |
+| 未尝试 | [#274](https://leetcode-cn.com/problems/h-index/)            | [H 指数](https://leetcode-cn.com/problems/h-index/)          | 39.0% | 中等 |      |

@@ -1,0 +1,103 @@
+| 已通过     | [#5](https://leetcode-cn.com/problems/longest-palindromic-substring/) | [最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring/) | 33.2% | 中等 |      |
+| ---------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ----- | ---- | ---- |
+| **已通过** | [#53](https://leetcode-cn.com/problems/maximum-subarray/)    | [最大子序和](https://leetcode-cn.com/problems/maximum-subarray/) | 53.4% | 简单 |      |
+| 未尝试     | [#42](https://leetcode-cn.com/problems/trapping-rain-water/) | [接雨水](https://leetcode-cn.com/problems/trapping-rain-water/) | 54.4% | 困难 |      |
+| 未尝试     | [#85](https://leetcode-cn.com/problems/maximal-rectangle/)   | [最大矩形](https://leetcode-cn.com/problems/maximal-rectangle/) | 51.7% | 困难 |      |
+| 未尝试     | [#96](https://leetcode-cn.com/problems/unique-binary-search-trees/) | [不同的二叉搜索树](https://leetcode-cn.com/problems/unique-binary-search-trees/) | 69.3% | 中等 |      |
+| 未尝试     | [#10](https://leetcode-cn.com/problems/regular-expression-matching/) | [正则表达式匹配](https://leetcode-cn.com/problems/regular-expression-matching/) | 30.8% | 困难 |      |
+| 未尝试     | [#72](https://leetcode-cn.com/problems/edit-distance/)       | [编辑距离](https://leetcode-cn.com/problems/edit-distance/)  | 60.5% | 困难 |      |
+| 未尝试     | [#95](https://leetcode-cn.com/problems/unique-binary-search-trees-ii/) | [不同的二叉搜索树 II](https://leetcode-cn.com/problems/unique-binary-search-trees-ii/) | 67.3% | 中等 |      |
+| 未尝试     | [#312](https://leetcode-cn.com/problems/burst-balloons/)     | [戳气球](https://leetcode-cn.com/problems/burst-balloons/)   | 67.7% | 困难 |      |
+| **已通过** | [#70](https://leetcode-cn.com/problems/climbing-stairs/)     | [爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/)  | 51.5% | 简单 |      |
+| 未尝试     | [#309](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | [最佳买卖股票时机含冷冻期](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | 57.5% | 中等 |      |
+| 未尝试     | [#121](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/) | [买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/) | 56.0% | 简单 |      |
+| 未尝试     | [#64](https://leetcode-cn.com/problems/minimum-path-sum/)    | [最小路径和](https://leetcode-cn.com/problems/minimum-path-sum/) | 68.2% | 中等 |      |
+| 未尝试     | [#131](https://leetcode-cn.com/problems/palindrome-partitioning/) | [分割回文串](https://leetcode-cn.com/problems/palindrome-partitioning/) | 70.4% | 中等 |      |
+| 未尝试     | [#546](https://leetcode-cn.com/problems/remove-boxes/)       | [移除盒子](https://leetcode-cn.com/problems/remove-boxes/)   | 63.9% | 困难 |      |
+| 未尝试     | [#221](https://leetcode-cn.com/problems/maximal-square/)     | [最大正方形](https://leetcode-cn.com/problems/maximal-square/) | 44.4% | 中等 |      |
+| 未尝试     | [#466](https://leetcode-cn.com/problems/count-the-repetitions/) | [统计重复个数](https://leetcode-cn.com/problems/count-the-repetitions/) | 37.5% | 困难 |      |
+| 未尝试     | [#120](https://leetcode-cn.com/problems/triangle/)           | [三角形最小路径和](https://leetcode-cn.com/problems/triangle/) | 67.2% | 中等 |      |
+| 未尝试     | [#32](https://leetcode-cn.com/problems/longest-valid-parentheses/) | [最长有效括号](https://leetcode-cn.com/problems/longest-valid-parentheses/) | 34.6% | 困难 |      |
+| 未尝试     | [#698](https://leetcode-cn.com/problems/partition-to-k-equal-sum-subsets/) | [划分为k个相等的子集](https://leetcode-cn.com/problems/partition-to-k-equal-sum-subsets/) | 44.6% | 中等 |      |
+| 未尝试     | [#264](https://leetcode-cn.com/problems/ugly-number-ii/)     | [丑数 II](https://leetcode-cn.com/problems/ugly-number-ii/)  | 55.2% | 中等 |      |
+| 未尝试     | [#357](https://leetcode-cn.com/problems/count-numbers-with-unique-digits/) | [计算各个位数不同的数字个数](https://leetcode-cn.com/problems/count-numbers-with-unique-digits/) | 51.8% | 中等 |      |
+| 未尝试     | [#375](https://leetcode-cn.com/problems/guess-number-higher-or-lower-ii/) | [猜数字大小 II](https://leetcode-cn.com/problems/guess-number-higher-or-lower-ii/) | 44.0% | 中等 |      |
+| **已通过** | [#300](https://leetcode-cn.com/problems/longest-increasing-subsequence/) | [最长递增子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence/) | 47.3% | 中等 |      |
+| 未尝试     | [#97](https://leetcode-cn.com/problems/interleaving-string/) | [交错字符串](https://leetcode-cn.com/problems/interleaving-string/) | 45.8% | 困难 |      |
+| 未尝试     | [#718](https://leetcode-cn.com/problems/maximum-length-of-repeated-subarray/) | [最长重复子数组](https://leetcode-cn.com/problems/maximum-length-of-repeated-subarray/) | 54.9% | 中等 |      |
+| **已通过** | [#198](https://leetcode-cn.com/problems/house-robber/)       | [打家劫舍](https://leetcode-cn.com/problems/house-robber/)   | 47.6% | 中等 |      |
+| 未尝试     | [#303](https://leetcode-cn.com/problems/range-sum-query-immutable/) | [区域和检索 - 数组不可变](https://leetcode-cn.com/problems/range-sum-query-immutable/) | 64.7% | 简单 |      |
+| 未尝试     | [#279](https://leetcode-cn.com/problems/perfect-squares/)    | [完全平方数](https://leetcode-cn.com/problems/perfect-squares/) | 59.3% | 中等 |      |
+| 未尝试     | [#552](https://leetcode-cn.com/problems/student-attendance-record-ii/) | [学生出勤记录 II](https://leetcode-cn.com/problems/student-attendance-record-ii/) | 43.3% | 困难 |      |
+| 未尝试     | [#877](https://leetcode-cn.com/problems/stone-game/)         | [石子游戏](https://leetcode-cn.com/problems/stone-game/)     | 72.4% | 中等 |      |
+| **已通过** | [#516](https://leetcode-cn.com/problems/longest-palindromic-subsequence/) | [最长回文子序列](https://leetcode-cn.com/problems/longest-palindromic-subsequence/) | 59.9% | 中等 |      |
+| 未尝试     | [#132](https://leetcode-cn.com/problems/palindrome-partitioning-ii/) | [分割回文串 II](https://leetcode-cn.com/problems/palindrome-partitioning-ii/) | 44.9% | 困难 |      |
+| 未尝试     | [#413](https://leetcode-cn.com/problems/arithmetic-slices/)  | [等差数列划分](https://leetcode-cn.com/problems/arithmetic-slices/) | 64.3% | 中等 |      |
+| 未尝试     | [#410](https://leetcode-cn.com/problems/split-array-largest-sum/) | [分割数组的最大值](https://leetcode-cn.com/problems/split-array-largest-sum/) | 54.2% | 困难 |      |
+| 未尝试     | [#474](https://leetcode-cn.com/problems/ones-and-zeroes/)    | [一和零](https://leetcode-cn.com/problems/ones-and-zeroes/)  | 55.6% | 中等 |      |
+| 未尝试     | [#343](https://leetcode-cn.com/problems/integer-break/)      | [整数拆分](https://leetcode-cn.com/problems/integer-break/)  | 59.3% | 中等 |      |
+| 未尝试     | [#368](https://leetcode-cn.com/problems/largest-divisible-subset/) | [最大整除子集](https://leetcode-cn.com/problems/largest-divisible-subset/) | 39.7% | 中等 |      |
+| 未尝试     | [#87](https://leetcode-cn.com/problems/scramble-string/)     | [扰乱字符串](https://leetcode-cn.com/problems/scramble-string/) | 49.0% | 困难 |      |
+| 未尝试     | [#689](https://leetcode-cn.com/problems/maximum-sum-of-3-non-overlapping-subarrays/) | [三个无重叠子数组的最大和](https://leetcode-cn.com/problems/maximum-sum-of-3-non-overlapping-subarrays/) | 46.9% | 困难 |      |
+| 未尝试     | [#647](https://leetcode-cn.com/problems/palindromic-substrings/) | [回文子串](https://leetcode-cn.com/problems/palindromic-substrings/) | 65.0% | 中等 |      |
+| 未尝试     | [#152](https://leetcode-cn.com/problems/maximum-product-subarray/) | [乘积最大子数组](https://leetcode-cn.com/problems/maximum-product-subarray/) | 41.1% | 中等 |      |
+| 未尝试     | [#139](https://leetcode-cn.com/problems/word-break/)         | [单词拆分](https://leetcode-cn.com/problems/word-break/)     | 49.2% | 中等 |      |
+| 未尝试     | [#1025](https://leetcode-cn.com/problems/divisor-game/)      | [除数博弈](https://leetcode-cn.com/problems/divisor-game/)   | 71.5% | 简单 |      |
+| 未尝试     | [#673](https://leetcode-cn.com/problems/number-of-longest-increasing-subsequence/) | [最长递增子序列的个数](https://leetcode-cn.com/problems/number-of-longest-increasing-subsequence/) | 37.3% | 中等 |      |
+| 未尝试     | [#464](https://leetcode-cn.com/problems/can-i-win/)          | [我能赢吗](https://leetcode-cn.com/problems/can-i-win/)      | 34.9% | 中等 |      |
+| 未尝试     | [#600](https://leetcode-cn.com/problems/non-negative-integers-without-consecutive-ones/) | [不含连续1的非负整数](https://leetcode-cn.com/problems/non-negative-integers-without-consecutive-ones/) | 33.4% | 困难 |      |
+| 未尝试     | [#664](https://leetcode-cn.com/problems/strange-printer/)    | [奇怪的打印机](https://leetcode-cn.com/problems/strange-printer/) | 48.2% | 困难 |      |
+| 未尝试     | [#363](https://leetcode-cn.com/problems/max-sum-of-rectangle-no-larger-than-k/) | [矩形区域不超过 K 的最大数值和](https://leetcode-cn.com/problems/max-sum-of-rectangle-no-larger-than-k/) | 40.2% | 困难 |      |
+| 未尝试     | [#321](https://leetcode-cn.com/problems/create-maximum-number/) | [拼接最大数](https://leetcode-cn.com/problems/create-maximum-number/) | 43.0% | 困难 |      |
+
+| 未尝试     | [#638](https://leetcode-cn.com/problems/shopping-offers/)    | [大礼包](https://leetcode-cn.com/problems/shopping-offers/)  | 59.1% | 中等 |      |
+| ---------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ----- | ---- | ---- |
+| 未尝试     | [#174](https://leetcode-cn.com/problems/dungeon-game/)       | [地下城游戏](https://leetcode-cn.com/problems/dungeon-game/) | 48.3% | 困难 |      |
+| 未尝试     | [#62](https://leetcode-cn.com/problems/unique-paths/)        | [不同路径](https://leetcode-cn.com/problems/unique-paths/)   | 64.3% | 中等 |      |
+| 未尝试     | [#338](https://leetcode-cn.com/problems/counting-bits/)      | [比特位计数](https://leetcode-cn.com/problems/counting-bits/) | 76.7% | 中等 |      |
+| **已通过** | [#322](https://leetcode-cn.com/problems/coin-change/)        | [零钱兑换](https://leetcode-cn.com/problems/coin-change/)    | 42.6% | 中等 |      |
+| 未尝试     | [#730](https://leetcode-cn.com/problems/count-different-palindromic-subsequences/) | [统计不同回文子序列](https://leetcode-cn.com/problems/count-different-palindromic-subsequences/) | 47.6% | 困难 |      |
+| 未尝试     | [#1240](https://leetcode-cn.com/problems/tiling-a-rectangle-with-the-fewest-squares/) | [铺瓷砖](https://leetcode-cn.com/problems/tiling-a-rectangle-with-the-fewest-squares/) | 48.7% | 困难 |      |
+| 未尝试     | [#354](https://leetcode-cn.com/problems/russian-doll-envelopes/) | [俄罗斯套娃信封问题](https://leetcode-cn.com/problems/russian-doll-envelopes/) | 39.1% | 困难 |      |
+| 未尝试     | [#123](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iii/) | [买卖股票的最佳时机 III](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iii/) | 51.1% | 困难 |      |
+| 未尝试     | [#486](https://leetcode-cn.com/problems/predict-the-winner/) | [预测赢家](https://leetcode-cn.com/problems/predict-the-winner/) | 58.6% | 中等 |      |
+| 未尝试     | [#650](https://leetcode-cn.com/problems/2-keys-keyboard/)    | [只有两个键的键盘](https://leetcode-cn.com/problems/2-keys-keyboard/) | 51.9% | 中等 |      |
+| 未尝试     | [#392](https://leetcode-cn.com/problems/is-subsequence/)     | [判断子序列](https://leetcode-cn.com/problems/is-subsequence/) | 50.8% | 简单 |      |
+| **已通过** | [#91](https://leetcode-cn.com/problems/decode-ways/)         | [解码方法](https://leetcode-cn.com/problems/decode-ways/)    | 25.7% | 中等 |      |
+| 未尝试     | [#351](https://leetcode-cn.com/problems/android-unlock-patterns/) | [安卓系统手势解锁](https://leetcode-cn.com/problems/android-unlock-patterns/) | 58.0% | 中等 |      |
+| 未尝试     | [#741](https://leetcode-cn.com/problems/cherry-pickup/)      | [摘樱桃](https://leetcode-cn.com/problems/cherry-pickup/)    | 35.1% | 困难 |      |
+| 未尝试     | [#712](https://leetcode-cn.com/problems/minimum-ascii-delete-sum-for-two-strings/) | [两个字符串的最小ASCII删除和](https://leetcode-cn.com/problems/minimum-ascii-delete-sum-for-two-strings/) | 65.9% | 中等 |      |
+| 未尝试     | [#629](https://leetcode-cn.com/problems/k-inverse-pairs-array/) | [K个逆序对数组](https://leetcode-cn.com/problems/k-inverse-pairs-array/) | 39.0% | 困难 |      |
+| 未尝试     | [#639](https://leetcode-cn.com/problems/decode-ways-ii/)     | [解码方法 II](https://leetcode-cn.com/problems/decode-ways-ii/) | 29.9% | 困难 |      |
+| 未尝试     | [#956](https://leetcode-cn.com/problems/tallest-billboard/)  | [最高的广告牌](https://leetcode-cn.com/problems/tallest-billboard/) | 42.4% | 困难 |      |
+| 未尝试     | [#115](https://leetcode-cn.com/problems/distinct-subsequences/) | [不同的子序列](https://leetcode-cn.com/problems/distinct-subsequences/) | 50.1% | 困难 |      |
+| 未尝试     | [#44](https://leetcode-cn.com/problems/wildcard-matching/)   | [通配符匹配](https://leetcode-cn.com/problems/wildcard-matching/) | 31.9% | 困难 |      |
+| 未尝试     | [#714](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) | [买卖股票的最佳时机含手续费](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) | 69.9% | 中等 |      |
+| 未尝试     | [#688](https://leetcode-cn.com/problems/knight-probability-in-chessboard/) | [“马”在棋盘上的概率](https://leetcode-cn.com/problems/knight-probability-in-chessboard/) | 50.2% | 中等 |      |
+| 未尝试     | [#213](https://leetcode-cn.com/problems/house-robber-ii/)    | [打家劫舍 II](https://leetcode-cn.com/problems/house-robber-ii/) | 40.8% | 中等 |      |
+| 未尝试     | [#514](https://leetcode-cn.com/problems/freedom-trail/)      | [自由之路](https://leetcode-cn.com/problems/freedom-trail/)  | 50.1% | 困难 |      |
+| 未尝试     | [#188](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iv/) | [买卖股票的最佳时机 IV](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iv/) | 36.4% | 困难 |      |
+| 未尝试     | [#63](https://leetcode-cn.com/problems/unique-paths-ii/)     | [不同路径 II](https://leetcode-cn.com/problems/unique-paths-ii/) | 37.7% | 中等 |      |
+| 未尝试     | [#140](https://leetcode-cn.com/problems/word-break-ii/)      | [单词拆分 II](https://leetcode-cn.com/problems/word-break-ii/) | 44.4% | 困难 |      |
+| 未尝试     | [#403](https://leetcode-cn.com/problems/frog-jump/)          | [青蛙过河](https://leetcode-cn.com/problems/frog-jump/)      | 39.6% | 困难 |      |
+| 未尝试     | [#377](https://leetcode-cn.com/problems/combination-sum-iv/) | [组合总和 Ⅳ](https://leetcode-cn.com/problems/combination-sum-iv/) | 43.7% | 中等 |      |
+| 未尝试     | [#376](https://leetcode-cn.com/problems/wiggle-subsequence/) | [摆动序列](https://leetcode-cn.com/problems/wiggle-subsequence/) | 45.2% | 中等 |      |
+| 未尝试     | [#740](https://leetcode-cn.com/problems/delete-and-earn/)    | [删除与获得点数](https://leetcode-cn.com/problems/delete-and-earn/) | 53.3% | 中等 |      |
+| 未尝试     | [#646](https://leetcode-cn.com/problems/maximum-length-of-pair-chain/) | [最长数对链](https://leetcode-cn.com/problems/maximum-length-of-pair-chain/) | 56.9% | 中等 |      |
+| 未尝试     | [#467](https://leetcode-cn.com/problems/unique-substrings-in-wraparound-string/) | [环绕字符串中唯一的子字符串](https://leetcode-cn.com/problems/unique-substrings-in-wraparound-string/) | 42.9% | 中等 |      |
+| 未尝试     | [#691](https://leetcode-cn.com/problems/stickers-to-spell-word/) | [贴纸拼词](https://leetcode-cn.com/problems/stickers-to-spell-word/) | 48.1% | 困难 |      |
+| 未尝试     | [#902](https://leetcode-cn.com/problems/numbers-at-most-n-given-digit-set/) | [最大为 N 的数字组合](https://leetcode-cn.com/problems/numbers-at-most-n-given-digit-set/) | 31.6% | 困难 |      |
+| 未尝试     | [#1000](https://leetcode-cn.com/problems/minimum-cost-to-merge-stones/) | [合并石头的最低成本](https://leetcode-cn.com/problems/minimum-cost-to-merge-stones/) | 38.4% | 困难 |      |
+| 未尝试     | [#517](https://leetcode-cn.com/problems/super-washing-machines/) | [超级洗衣机](https://leetcode-cn.com/problems/super-washing-machines/) | 42.2% | 困难 |      |
+| 未尝试     | [#1130](https://leetcode-cn.com/problems/minimum-cost-tree-from-leaf-values/) | [叶值的最小代价生成树](https://leetcode-cn.com/problems/minimum-cost-tree-from-leaf-values/) | 62.8% | 中等 |      |
+| 未尝试     | [#494](https://leetcode-cn.com/problems/target-sum/)         | [目标和](https://leetcode-cn.com/problems/target-sum/)       | 44.8% | 中等 |      |
+| 未尝试     | [#416](https://leetcode-cn.com/problems/partition-equal-subset-sum/) | [分割等和子集](https://leetcode-cn.com/problems/partition-equal-subset-sum/) | 49.4% | 中等 |      |
+| 未尝试     | [#1388](https://leetcode-cn.com/problems/pizza-with-3n-slices/) | [3n 块披萨](https://leetcode-cn.com/problems/pizza-with-3n-slices/) | 50.5% | 困难 |      |
+| 未尝试     | [#256](https://leetcode-cn.com/problems/paint-house/)        | [粉刷房子](https://leetcode-cn.com/problems/paint-house/)    | 58.6% | 中等 |      |
+| 未尝试     | [#446](https://leetcode-cn.com/problems/arithmetic-slices-ii-subsequence/) | [等差数列划分 II - 子序列](https://leetcode-cn.com/problems/arithmetic-slices-ii-subsequence/) | 36.7% | 困难 |      |
+| 未尝试     | [#304](https://leetcode-cn.com/problems/range-sum-query-2d-immutable/) | [二维区域和检索 - 矩阵不可变](https://leetcode-cn.com/problems/range-sum-query-2d-immutable/) | 47.3% | 中等 |      |
+| 未尝试     | [#576](https://leetcode-cn.com/problems/out-of-boundary-paths/) | [出界的路径数](https://leetcode-cn.com/problems/out-of-boundary-paths/) | 38.1% | 中等 |      |
+| 未尝试     | [#1220](https://leetcode-cn.com/problems/count-vowels-permutation/) | [统计元音字母序列的数目](https://leetcode-cn.com/problems/count-vowels-permutation/) | 52.6% | 困难 |      |
+| 未尝试     | [#523](https://leetcode-cn.com/problems/continuous-subarray-sum/) | [连续的子数组和](https://leetcode-cn.com/problems/continuous-subarray-sum/) | 22.7% | 中等 |      |
+| 未尝试     | [#1024](https://leetcode-cn.com/problems/video-stitching/)   | [视频拼接](https://leetcode-cn.com/problems/video-stitching/) | 56.9% | 中等 |      |
+| 未尝试     | [#472](https://leetcode-cn.com/problems/concatenated-words/) | [连接词](https://leetcode-cn.com/problems/concatenated-words/) | 42.5% | 困难 |      |

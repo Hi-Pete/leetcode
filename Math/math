@@ -1,0 +1,77 @@
+| 状态   | 题号                                                         | 题目                                                         | 通过率 | 难度 | 出现频率 |
+| :----- | :----------------------------------------------------------- | :----------------------------------------------------------- | :----- | :--- | :------- |
+| 未尝试 | [#2](https://leetcode-cn.com/problems/add-two-numbers/)      | [两数相加](https://leetcode-cn.com/problems/add-two-numbers/) | 39.6%  | 中等 |          |
+| 未尝试 | [#535](https://leetcode-cn.com/problems/encode-and-decode-tinyurl/) | [TinyURL 的加密与解密](https://leetcode-cn.com/problems/encode-and-decode-tinyurl/) | 83.7%  | 中等 |          |
+| 未尝试 | [#7](https://leetcode-cn.com/problems/reverse-integer/)      | [整数反转](https://leetcode-cn.com/problems/reverse-integer/) | 35.0%  | 简单 |          |
+| 未尝试 | [#13](https://leetcode-cn.com/problems/roman-to-integer/)    | [罗马数字转整数](https://leetcode-cn.com/problems/roman-to-integer/) | 62.5%  | 简单 |          |
+| 未尝试 | [#9](https://leetcode-cn.com/problems/palindrome-number/)    | [回文数](https://leetcode-cn.com/problems/palindrome-number/) | 58.7%  | 简单 |          |
+| 未尝试 | [#458](https://leetcode-cn.com/problems/poor-pigs/)          | [可怜的小猪](https://leetcode-cn.com/problems/poor-pigs/)    | 59.2%  | 困难 |          |
+| 未尝试 | [#233](https://leetcode-cn.com/problems/number-of-digit-one/) | [数字 1 的个数](https://leetcode-cn.com/problems/number-of-digit-one/) | 38.9%  | 困难 |          |
+| 未尝试 | [#12](https://leetcode-cn.com/problems/integer-to-roman/)    | [整数转罗马数字](https://leetcode-cn.com/problems/integer-to-roman/) | 64.9%  | 中等 |          |
+| 未尝试 | [#258](https://leetcode-cn.com/problems/add-digits/)         | [各位相加](https://leetcode-cn.com/problems/add-digits/)     | 68.6%  | 简单 |          |
+| 未尝试 | [#67](https://leetcode-cn.com/problems/add-binary/)          | [二进制求和](https://leetcode-cn.com/problems/add-binary/)   | 54.5%  | 简单 |          |
+| 未尝试 | [#202](https://leetcode-cn.com/problems/happy-number/)       | [快乐数](https://leetcode-cn.com/problems/happy-number/)     | 61.2%  | 简单 |          |
+| 未尝试 | [#43](https://leetcode-cn.com/problems/multiply-strings/)    | [字符串相乘](https://leetcode-cn.com/problems/multiply-strings/) | 44.7%  | 中等 |          |
+| 未尝试 | [#728](https://leetcode-cn.com/problems/self-dividing-numbers/) | [自除数](https://leetcode-cn.com/problems/self-dividing-numbers/) | 75.2%  | 简单 |          |
+| 未尝试 | [#264](https://leetcode-cn.com/problems/ugly-number-ii/)     | [丑数 II](https://leetcode-cn.com/problems/ugly-number-ii/)  | 55.2%  | 中等 |          |
+| 未尝试 | [#357](https://leetcode-cn.com/problems/count-numbers-with-unique-digits/) | [计算各个位数不同的数字个数](https://leetcode-cn.com/problems/count-numbers-with-unique-digits/) | 51.8%  | 中等 |          |
+| 未尝试 | [#400](https://leetcode-cn.com/problems/nth-digit/)          | [第 N 位数字](https://leetcode-cn.com/problems/nth-digit/)   | 39.8%  | 中等 |          |
+| 未尝试 | [#279](https://leetcode-cn.com/problems/perfect-squares/)    | [完全平方数](https://leetcode-cn.com/problems/perfect-squares/) | 59.3%  | 中等 |          |
+| 未尝试 | [#319](https://leetcode-cn.com/problems/bulb-switcher/)      | [灯泡开关](https://leetcode-cn.com/problems/bulb-switcher/)  | 49.2%  | 中等 |          |
+| 未尝试 | [#372](https://leetcode-cn.com/problems/super-pow/)          | [超级次方](https://leetcode-cn.com/problems/super-pow/)      | 47.6%  | 中等 |          |
+| 未尝试 | [#413](https://leetcode-cn.com/problems/arithmetic-slices/)  | [等差数列划分](https://leetcode-cn.com/problems/arithmetic-slices/) | 64.3%  | 中等 |          |
+| 未尝试 | [#343](https://leetcode-cn.com/problems/integer-break/)      | [整数拆分](https://leetcode-cn.com/problems/integer-break/)  | 59.3%  | 中等 |          |
+| 未尝试 | [#368](https://leetcode-cn.com/problems/largest-divisible-subset/) | [最大整除子集](https://leetcode-cn.com/problems/largest-divisible-subset/) | 39.7%  | 中等 |          |
+| 未尝试 | [#447](https://leetcode-cn.com/problems/number-of-boomerangs/) | [回旋镖的数量](https://leetcode-cn.com/problems/number-of-boomerangs/) | 59.3%  | 中等 |          |
+| 未尝试 | [#754](https://leetcode-cn.com/problems/reach-a-number/)     | [到达终点数字](https://leetcode-cn.com/problems/reach-a-number/) | 41.9%  | 中等 |          |
+| 未尝试 | [#453](https://leetcode-cn.com/problems/minimum-moves-to-equal-array-elements/) | [最小操作次数使数组元素相等](https://leetcode-cn.com/problems/minimum-moves-to-equal-array-elements/) | 54.9%  | 简单 |          |
+| 未尝试 | [#313](https://leetcode-cn.com/problems/super-ugly-number/)  | [超级丑数](https://leetcode-cn.com/problems/super-ugly-number/) | 64.1%  | 中等 |          |
+| 未尝试 | [#365](https://leetcode-cn.com/problems/water-and-jug-problem/) | [水壶问题](https://leetcode-cn.com/problems/water-and-jug-problem/) | 35.3%  | 中等 |          |
+| 未尝试 | [#224](https://leetcode-cn.com/problems/basic-calculator/)   | [基本计算器](https://leetcode-cn.com/problems/basic-calculator/) | 39.1%  | 困难 |          |
+| 未尝试 | [#8](https://leetcode-cn.com/problems/string-to-integer-atoi/) | [字符串转换整数 (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi/) | 21.3%  | 中等 |          |
+| 未尝试 | [#29](https://leetcode-cn.com/problems/divide-two-integers/) | [两数相除](https://leetcode-cn.com/problems/divide-two-integers/) | 20.4%  | 中等 |          |
+| 未尝试 | [#628](https://leetcode-cn.com/problems/maximum-product-of-three-numbers/) | [三个数的最大乘积](https://leetcode-cn.com/problems/maximum-product-of-three-numbers/) | 52.2%  | 简单 |          |
+| 未尝试 | [#672](https://leetcode-cn.com/problems/bulb-switcher-ii/)   | [灯泡开关 Ⅱ](https://leetcode-cn.com/problems/bulb-switcher-ii/) | 56.0%  | 中等 |          |
+| 未尝试 | [#50](https://leetcode-cn.com/problems/powx-n/)              | [Pow(x, n)](https://leetcode-cn.com/problems/powx-n/)        | 37.3%  | 中等 |          |
+| 未尝试 | [#69](https://leetcode-cn.com/problems/sqrtx/)               | [x 的平方根](https://leetcode-cn.com/problems/sqrtx/)        | 39.2%  | 简单 |          |
+| 未尝试 | [#268](https://leetcode-cn.com/problems/missing-number/)     | [丢失的数字](https://leetcode-cn.com/problems/missing-number/) | 59.6%  | 简单 |          |
+| 未尝试 | [#60](https://leetcode-cn.com/problems/permutation-sequence/) | [排列序列](https://leetcode-cn.com/problems/permutation-sequence/) | 52.0%  | 困难 |          |
+| 未尝试 | [#204](https://leetcode-cn.com/problems/count-primes/)       | [计数质数](https://leetcode-cn.com/problems/count-primes/)   | 38.4%  | 简单 |          |
+| 未尝试 | [#65](https://leetcode-cn.com/problems/valid-number/)        | [有效数字](https://leetcode-cn.com/problems/valid-number/)   | 21.8%  | 困难 |          |
+| 未尝试 | [#1230](https://leetcode-cn.com/problems/toss-strange-coins/) | [抛掷硬币](https://leetcode-cn.com/problems/toss-strange-coins/) | 46.8%  | 中等 |          |
+| 未尝试 | [#172](https://leetcode-cn.com/problems/factorial-trailing-zeroes/) | [阶乘后的零](https://leetcode-cn.com/problems/factorial-trailing-zeroes/) | 42.0%  | 简单 |          |
+| 未尝试 | [#149](https://leetcode-cn.com/problems/max-points-on-a-line/) | [直线上最多的点数](https://leetcode-cn.com/problems/max-points-on-a-line/) | 23.7%  | 困难 |          |
+| 未尝试 | [#462](https://leetcode-cn.com/problems/minimum-moves-to-equal-array-elements-ii/) | [最少移动次数使数组元素相等 II](https://leetcode-cn.com/problems/minimum-moves-to-equal-array-elements-ii/) | 59.8%  | 中等 |          |
+| 未尝试 | [#223](https://leetcode-cn.com/problems/rectangle-area/)     | [矩形面积](https://leetcode-cn.com/problems/rectangle-area/) | 44.0%  | 中等 |          |
+| 未尝试 | [#927](https://leetcode-cn.com/problems/three-equal-parts/)  | [三等分](https://leetcode-cn.com/problems/three-equal-parts/) | 32.5%  | 困难 |          |
+| 未尝试 | [#171](https://leetcode-cn.com/problems/excel-sheet-column-number/) | [Excel表列序号](https://leetcode-cn.com/problems/excel-sheet-column-number/) | 68.9%  | 简单 |          |
+| 未尝试 | [#168](https://leetcode-cn.com/problems/excel-sheet-column-title/) | [Excel表列名称](https://leetcode-cn.com/problems/excel-sheet-column-title/) | 38.9%  | 简单 |          |
+| 未尝试 | [#866](https://leetcode-cn.com/problems/prime-palindrome/)   | [回文素数](https://leetcode-cn.com/problems/prime-palindrome/) | 21.9%  | 中等 |          |
+| 未尝试 | [#166](https://leetcode-cn.com/problems/fraction-to-recurring-decimal/) | [分数到小数](https://leetcode-cn.com/problems/fraction-to-recurring-decimal/) | 28.7%  | 中等 |          |
+| 未尝试 | [#810](https://leetcode-cn.com/problems/chalkboard-xor-game/) | [黑板异或游戏](https://leetcode-cn.com/problems/chalkboard-xor-game/) | 57.1%  | 困难 |          |
+| 未尝试 | [#537](https://leetcode-cn.com/problems/complex-number-multiplication/) | [复数乘法](https://leetcode-cn.com/problems/complex-number-multiplication/) | 70.5%  | 中等 |          |
+| 未尝试 | [#670](https://leetcode-cn.com/problems/maximum-swap/)       | [最大交换](https://leetcode-cn.com/problems/maximum-swap/)   | 42.9%  | 中等 |          |
+| 未尝试 | [#553](https://leetcode-cn.com/problems/optimal-division/)   | [最优除法](https://leetcode-cn.com/problems/optimal-division/) | 59.6%  | 中等 |          |
+| 未尝试 | [#273](https://leetcode-cn.com/problems/integer-to-english-words/) | [整数转换英文表示](https://leetcode-cn.com/problems/integer-to-english-words/) | 30.0%  | 困难 |          |
+| 未尝试 | [#423](https://leetcode-cn.com/problems/reconstruct-original-digits-from-english/) | [从英文中重建数字](https://leetcode-cn.com/problems/reconstruct-original-digits-from-english/) | 55.8%  | 中等 |          |
+| 未尝试 | [#335](https://leetcode-cn.com/problems/self-crossing/)      | [路径交叉](https://leetcode-cn.com/problems/self-crossing/)  | 36.0%  | 困难 |          |
+| 未尝试 | [#910](https://leetcode-cn.com/problems/smallest-range-ii/)  | [最小差值 II](https://leetcode-cn.com/problems/smallest-range-ii/) | 31.0%  | 中等 |          |
+| 未尝试 | [#507](https://leetcode-cn.com/problems/perfect-number/)     | [完美数](https://leetcode-cn.com/problems/perfect-number/)   | 39.4%  | 简单 |          |
+| 未尝试 | [#263](https://leetcode-cn.com/problems/ugly-number/)        | [丑数](https://leetcode-cn.com/problems/ugly-number/)        | 50.1%  | 简单 |          |
+| 未尝试 | [#592](https://leetcode-cn.com/problems/fraction-addition-and-subtraction/) | [分数加减运算](https://leetcode-cn.com/problems/fraction-addition-and-subtraction/) | 50.7%  | 中等 |          |
+| 未尝试 | [#598](https://leetcode-cn.com/problems/range-addition-ii/)  | [范围求和 II](https://leetcode-cn.com/problems/range-addition-ii/) | 51.7%  | 简单 |          |
+| 未尝试 | [#396](https://leetcode-cn.com/problems/rotate-function/)    | [旋转函数](https://leetcode-cn.com/problems/rotate-function/) | 40.5%  | 中等 |          |
+| 未尝试 | [#633](https://leetcode-cn.com/problems/sum-of-square-numbers/) | [平方数之和](https://leetcode-cn.com/problems/sum-of-square-numbers/) | 35.1%  | 中等 |          |
+| 未尝试 | [#367](https://leetcode-cn.com/problems/valid-perfect-square/) | [有效的完全平方数](https://leetcode-cn.com/problems/valid-perfect-square/) | 43.7%  | 简单 |          |
+| 未尝试 | [#483](https://leetcode-cn.com/problems/smallest-good-base/) | [最小好进制](https://leetcode-cn.com/problems/smallest-good-base/) | 42.4%  | 困难 |          |
+| 未尝试 | [#231](https://leetcode-cn.com/problems/power-of-two/)       | [2的幂](https://leetcode-cn.com/problems/power-of-two/)      | 49.2%  | 简单 |          |
+| 未尝试 | [#805](https://leetcode-cn.com/problems/split-array-with-same-average/) | [数组的均值分割](https://leetcode-cn.com/problems/split-array-with-same-average/) | 28.2%  | 困难 |          |
+| 未尝试 | [#517](https://leetcode-cn.com/problems/super-washing-machines/) | [超级洗衣机](https://leetcode-cn.com/problems/super-washing-machines/) | 42.2%  | 困难 |          |
+| 未尝试 | [#942](https://leetcode-cn.com/problems/di-string-match/)    | [增减字符串匹配](https://leetcode-cn.com/problems/di-string-match/) | 72.6%  | 简单 |          |
+| 未尝试 | [#899](https://leetcode-cn.com/problems/orderly-queue/)      | [有序队列](https://leetcode-cn.com/problems/orderly-queue/)  | 52.5%  | 困难 |          |
+| 未尝试 | [#645](https://leetcode-cn.com/problems/set-mismatch/)       | [错误的集合](https://leetcode-cn.com/problems/set-mismatch/) | 42.5%  | 简单 |          |
+| 未尝试 | [#593](https://leetcode-cn.com/problems/valid-square/)       | [有效的正方形](https://leetcode-cn.com/problems/valid-square/) | 44.3%  | 中等 |          |
+| 未尝试 | [#441](https://leetcode-cn.com/problems/arranging-coins/)    | [排列硬币](https://leetcode-cn.com/problems/arranging-coins/) | 42.0%  | 简单 |          |
+| 未尝试 | [#640](https://leetcode-cn.com/problems/solve-the-equation/) | [求解方程](https://leetcode-cn.com/problems/solve-the-equation/) | 41.6%  | 中等 |          |
+| 未尝试 | [#1362](https://leetcode-cn.com/problems/closest-divisors/)  | [最接近的因数](https://leetcode-cn.com/problems/closest-divisors/) | 51.2%  | 中等 |          |
+| 未尝试 | [#1307](https://leetcode-cn.com/problems/verbal-arithmetic-puzzle/) | [口算难题](https://leetcode-cn.com/problems/verbal-arithmetic-puzzle/) | 33.5%  | 困难 |          |
