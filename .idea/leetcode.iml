@@ -3,6 +3,7 @@
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/Binary-search/875.Koko_Eating_Bananas.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Tree/RB-Tree.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/CMakeLists.txt" isTestSource="false" />
     </content>
     <orderEntry type="sourceFolder" forTests="false" />
