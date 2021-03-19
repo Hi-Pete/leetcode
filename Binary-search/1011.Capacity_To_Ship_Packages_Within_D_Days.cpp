@@ -8,7 +8,6 @@
 
 #include <vector>
 #include <numeric>
-#include <algorithm>
 
 using std::vector;
 
@@ -26,8 +25,7 @@ class Solution {
         for (int i = 0; i < D; ++i) {
             // 一天的运载能力
             int capility = cap;
-            while (capility > 0){
-                capility -= weights[i];
+            while ((capility -= weights[nums]) > 0){
                 nums++;     // 完成一个包裹的运载
                 if (nums == weights.size()) // 立刻检查是否运载完所有包裹
                     return true;
@@ -41,13 +39,24 @@ public:
         int left = getMax(weights);
         int right = std::accumulate(weights.begin(), weights.end(), 0);
 
-        while (left >= right){
+        while (left <= right){
             int mid = left +(right - left)/2;
             if (canFinish(weights, D, mid)){
-                
+                right = mid - 1;
+            } else {
+                left = mid + 1;
             }
         }
+
+        return right;
     }
-
-
 };
+
+int main(){
+    vector<int> nums = {1,2,3,4,5,6,7,8,9,10};
+
+    Solution solve;
+    solve.shipWithinDays(nums, 5);
+
+    return 0;
+}
