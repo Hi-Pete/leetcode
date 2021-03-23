@@ -17,14 +17,12 @@ struct ListNode{
 class Solution {
   public:
     // 翻转一个子链表，并且返回新的头与尾
-    std::pair<ListNode*, ListNode*> myReverse(ListNode* head, ListNode* tail)
-    {
+    std::pair<ListNode*, ListNode*> myReverse(ListNode* head, ListNode* tail) {
         ListNode* prev = tail->next;    // prev 指针指向尾节点后一个节点
                                         // 注：prev 指针的初值指向翻转数组尾节点要指向的地方
         ListNode* curr = head;          // 从头节点开始
 
-        while (prev != tail)
-        {
+        while (prev != tail) {
             ListNode* nex = curr->next; // nex 指针接管 curr 的 next
             curr->next = prev;          // 把第一个节点的 next 链接到尾节点后一个节点
             prev = curr;                // prev 和 curr 向后移动一位
@@ -36,14 +34,13 @@ class Solution {
     ListNode* reverseKGroup(ListNode* head, int k) {
         // 创建一个虚假的头节点，指针存储头指针
         ListNode* dummyNode = new ListNode(0);
-        hair->next = head;
+        dummyNode->next = head;
 
         ListNode* pre = dummyNode;       // 指针 pre 指向假头节点
                                     // 之后 head 指针和 pre 指针作为双指针辅助翻转链表
-        while (head)
-        {
+        while (head) {
             // tail 指针首先用来判断剩余的部分是否有 k 个节点可以翻转
-            // 如果有的话，tail 指针定位 k 区间尾部
+            // 如果有的话，tail 指针定位 k 区间 尾部
             ListNode* tail = pre;
 
             for (int i = 0; i < k; ++i) {

@@ -12,7 +12,7 @@ struct ListNode {
     ListNode(int x, ListNode *next) : val(x), next(next) {}
 };
 
-class Solution {
+class Iteratively {
 public:
     ListNode* reverseBetween(ListNode* head, int m, int n) {
         ListNode* dummyNode = new ListNode(0, head);
@@ -20,10 +20,13 @@ public:
         ListNode* pLast = dummyNode;
         for (int i = 0; i < m-1 ; ++i)
              pLast = pLast->next;
-        // pLast 是第 m-1 个；pPrev 是第 m 个
+        // pLast 是第 m-1 个节点
+        // pPrev 是第 m 个节点
         ListNode* pPrev = pLast->next;
         // pNode 是第 m+1 个
         ListNode* pNode = pPrev->next;
+
+        // 该 n-m 条边
         for (int j = 0; j < n - m; ++j) {
             // head 指针借来当 next 指针
             head = pNode->next;
@@ -32,10 +35,43 @@ public:
             pPrev = pNode;
             pNode = head;
         }
+        // pLast 为 m-1 ，pNode 为 n+1
         pLast->next->next = pNode;
         pLast->next = pPrev;
 
         return dummyNode->next;
+    }
+};
+
+class Recursively {
+    ListNode* successor = nullptr;
+public:
+    // 反转前 n 个节点
+    ListNode* reverseN(ListNode* head, int n) {
+        if(n==1) {
+            // 记录后驱节点
+            successor = head->next;
+
+            return head;
+        }
+        // 以 head.next 为起点，需要反转前 n - 1 个节点
+        ListNode* pPrev = reverseN(head->next, n-1);
+
+        head->next->next = head;
+        head->next = successor;
+
+        return pPrev;
+    }
+
+    ListNode* reverseBetween(ListNode* head, int m, int n) {
+        // 移动到 m 个节点
+        // 反转以 m 个节点为头的 list 的前 n-m 个节点
+        if (m==1)
+            return reverseN(head, n);
+
+        head->next = reverseBetween(head->next, m-1, n-1);
+
+        return head;
     }
 };
 

@@ -507,7 +507,7 @@ class MergeSort {
 
 int main(){
     MergeSort sort;
-    vector<int> arr = {6, 3, 2, 5, 1, 4};
+    vector<int> arr = {13, 17, 25, 23, 45, 32, 51, 72};
 
     sort.mergeSort_prem(arr);
 
