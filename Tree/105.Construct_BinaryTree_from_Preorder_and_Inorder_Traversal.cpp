@@ -18,7 +18,8 @@ struct TreeNode {
 class Solution {
 public:
     TreeNode* build(std::vector<int>& preorder, int prbgn, int prend,
-                    std::vector<int>& inorder, int inbgn, int inend){
+                    std::vector<int>& inorder, int inbgn, int inend)
+    {
         if (prbgn>prend)
             return nullptr;
 
@@ -30,6 +31,7 @@ public:
                 index = i;
                 break;
             }
+
         int left_lth = index - inbgn;
 
         TreeNode* node = new TreeNode(rootVal);

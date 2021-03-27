@@ -14,7 +14,7 @@ struct TreeNode {
     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
 };
 
-class Solution {
+class Iteratively {
 public:
     void flatten(TreeNode* root) {
         if (!root)
@@ -33,5 +33,28 @@ public:
         con->right = root->right;
         root->right = root->left;
         root->left = nullptr;
+    }
+};
+
+class Recursively {
+public:
+    void flatten(TreeNode* root) {
+        TreeNode *curr = root;
+        while (curr != nullptr) {
+            if (curr->left != nullptr) {
+                // 记录左子树
+                TreeNode* next = curr->left;
+                // 寻找左子树的最右
+                TreeNode* predecessor = next;
+                while (predecessor->right != nullptr) {
+                    predecessor = predecessor->right;
+                }
+                // 左子树的最右的节点，是右子树的父节点
+                predecessor->right = curr->right;
+                curr->left = nullptr;
+                curr->right = next;
+            }
+            curr = curr->right;
+        }
     }
 };

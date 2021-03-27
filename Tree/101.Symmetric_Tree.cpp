@@ -14,10 +14,6 @@ struct TreeNode {
 
 class Solution {
 public:
-    // 1)如果两个子树都为空指针, 则它们对称
-    // 2)如果两个子树只有一个为空指针, 则它们不对称
-    // 3)如果两个子树根节点的值不相等, 则它们不对称
-    // 4)根据对称要求,进行递归处理
     bool isSymmetric(TreeNode* root) {
         if (!root)
             return true;

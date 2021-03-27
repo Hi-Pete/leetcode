@@ -22,11 +22,11 @@ public:
             return 0;
 
         int rank = 0;
-        stack<TreeNode*> stack;
-        TreeNode* pNode = root;
+        stack<TreeNode *> stack;
+        TreeNode *pNode = root;
 
-        do{
-            while(pNode) {
+        while (!stack.empty() || pNode) {
+            while (pNode) {
                 stack.push(pNode);
                 pNode = pNode->left;
             }
@@ -38,7 +38,7 @@ public:
                 return pNode->val;
 
             pNode = pNode->right;
-        } while (!(!pNode && stack.empty()));
+        }
 
         return 0;
     }
