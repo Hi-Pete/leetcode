@@ -1,5 +1,6 @@
 // 46. 全排列
-// 给定一个 没有重复 数字的序列，返回其所有可能的全排列。
+// 给定一个 没有重复 数字的序列
+// 返回其所有可能的全排列
 //
 
 #include <vector>
@@ -7,26 +8,64 @@
 using std::vector;
 
 class Solution {
+    void  backtrack(vector<int> &nums, int index, int n,
+                    vector<bool> &vbUsed, vector<int> &path,
+                    vector<vector<int>> &res) {
+        if(index == n){
+            res.push_back(path);
+
+            return;
+        }
+
+        for (int i = 0; i < n; ++i) {
+            if (vbUsed[i])
+                continue;
+
+            vbUsed[i] = true;
+            path.push_back(nums[i]);
+
+            backtrack(nums, index +1, n, vbUsed, path, res);
+
+            vbUsed[i] = false;
+            path.pop_back();
+        }
+    }
+
 public:
-    void backtrack(vector<int> &nums, int level, vector<vector<int>> &ans){
+    vector<vector<int>> permute(vector<int>& nums) {
+        vector<vector<int>> res;
+        if (nums.size() ==0)
+            return res;
+
+        int n = nums.size();
+        vector<bool> vbUsed(n, false);
+        vector<int> path;
+
+        backtrack(nums, 0, n, vbUsed, path, res);
+
+        return res;
+    }
+};
+
+class SwapSolution {
+    void backtrack(vector<int> &nums, int i, vector<vector<int>> &ans){
         // return condition
         // 到最后再入 res （不重复）
-        if (level == nums.size() - 1){
+        if (i == nums.size() - 1){
             ans.push_back(nums);
 
             return;
         }
 
-        // 逐逐个交换 头num 与剩余 num
-        for (int i = level; i < nums.size(); ++i) {
-            std::swap(nums[i], nums[level]);
+        for (int j = i; j < nums.size(); ++j) {
+            std::swap(nums[j], nums[i]);
 
-            backtrack(nums, level+1, ans);
+            backtrack(nums, i+1, ans);
 
-            std::swap(nums[i], nums[level]);
+            std::swap(nums[j], nums[i]);
         }
     }
-
+public:
     vector<vector<int>> permute(vector<int>& nums) {
         vector<vector<int>> ans;
         backtrack(nums, 0, ans);
@@ -34,3 +73,11 @@ public:
         return ans;
     }
 };
+
+int main(){
+    vector<int> nums = {1, 2, 3 ,4 ,5};
+    Solution solver;
+    solver.permute(nums);
+
+    return 0;
+}

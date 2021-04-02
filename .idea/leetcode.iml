@@ -2,7 +2,10 @@
 <module type="CPP_MODULE" version="4">
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
-      <sourceFolder url="file://$MODULE_DIR$/Tree/426.Convert_BST_to Sorted_Doubly_LinkedList.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DFS/Offer13.Moving_Robot.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DFS/200.Number_of_Islands.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DFS/BackTracking/417.Pacific_Atlantic_Water_Flow.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DFS/BackTracking/79.Word_Search.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/CMakeLists.txt" isTestSource="false" />
     </content>
     <orderEntry type="sourceFolder" forTests="false" />

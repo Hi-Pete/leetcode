@@ -11,13 +11,13 @@ using std::string;
 using std::vector;
 
 class Solution {
-public:
     void backtrack(vector<vector<string>> &ans, vector<string> &board,
                    vector<bool> &column,    // 按引用传状态
                    vector<bool> &ldiag, vector<bool> &rdiag, int row, int n){
         // return case
         if (row == n){
             ans.push_back(board);
+
             return;
         }
 
@@ -37,6 +37,7 @@ public:
         }
     }
 
+public:
     vector<vector<string>> solveNQueens(int n) {
         vector<vector<string>> ans;
         if (n==0)

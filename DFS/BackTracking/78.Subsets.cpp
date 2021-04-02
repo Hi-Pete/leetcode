@@ -61,7 +61,7 @@ class Solution_backtrack {
 
 
 int main(){
-    vector<int> nums = {1, 2, 3};
+    vector<int> nums = {0,1};
 
     Solution_backtrack solv = Solution_backtrack();
 

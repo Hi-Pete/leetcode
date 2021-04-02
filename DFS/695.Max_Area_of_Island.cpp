@@ -11,57 +11,8 @@
 
 using std::vector;
 
-class Solution {
-    vector<vector<int>> dirs = {{-1, 0}, {1, 0}, {0, -1}, {0, 1}};
-public:
-    int maxAreaOfIsland(vector<vector<int>>& grid) {
-        if (grid.empty() || grid[0].empty())
-            return 0;
-
-        unsigned long rows = grid.size(), cols = grid[0].size();
-
-        vector<vector<bool>> visited(rows, vector<bool>(cols, false));
-        int res = 0;
-        for (int i = 0; i < rows; ++i) {
-            for (int j = 0; j < cols; ++j) {
-                if (grid[i][j] == 1 && !visited[i][j])
-                    res = std::max(res, dfs(i, j, grid, visited));
-            }
-        }
-
-        return res;
-    }
-
-    int dfs(int x, int y, vector<vector<int>> &grid, vector<vector<bool>> &visited){
-        visited[x][y] = true;
-
-        int res = 1;
-        for (auto dir : dirs) {
-            int X = x + dir[0], Y = y + dir[1];
-            if (X >= 0 && X < grid.size() && Y >= 0 && Y < grid[0].size()
-                && grid[X][Y] == 1 && !visited[X][Y] )
-                res += dfs(X, Y, grid, visited);
-        }
-
-        return res;
-    }
-};
-
-class Solution_2{
+class Solution{
     vector<int> direction{-1, 0, 1, 0, -1};
-public:
-    int maxAreaOfIsland(vector<vector<int>>& grid){
-        if (grid.empty() || grid[0].empty())
-            return 0;
-        int res = 0;
-        for (int i = 0; i < grid.size(); i++){
-            for (int j = 0; j < grid[0].size(); ++j) {
-                if (grid[i][j]==1)
-                    res = std::max(res, dfs(i, j, grid));
-            }
-        }
-        return res;
-    }
 
     int dfs(int x, int y, vector<vector<int>>& grid) {
         if (grid[x][y] == 0)
@@ -75,7 +26,21 @@ public:
                 res += dfs(X, Y, grid);
 
         }
+        // 无序搜索，不用回溯
 
+        return res;
+    }
+public:
+    int maxAreaOfIsland(vector<vector<int>>& grid){
+        if (grid.empty() || grid[0].empty())
+            return 0;
+        int res = 0;
+        for (int i = 0; i < grid.size(); i++){
+            for (int j = 0; j < grid[0].size(); ++j) {
+                if (grid[i][j]==1)
+                    res = std::max(res, dfs(i, j, grid));
+            }
+        }
         return res;
     }
 };

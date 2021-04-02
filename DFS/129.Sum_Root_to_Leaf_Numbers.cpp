@@ -17,14 +17,6 @@ struct TreeNode {
 };
 
 class Solution {
-  public:
-    int sumNumbers(TreeNode* root) {
-        if (!root)
-            return 0;
-
-        return dfs(root, 0);
-    }
-
     int dfs(TreeNode* node, int cusum){
         if (!node)
             return 0;
@@ -34,6 +26,15 @@ class Solution {
         if (!node->left && !node->right)
             return cusum;
 
-        return dfs(node->left, cusum) + dfs(node->right, cusum);
+        return dfs(node->left, cusum) +
+               dfs(node->right, cusum);
+    }
+
+  public:
+    int sumNumbers(TreeNode* root) {
+        if (!root)
+            return 0;
+
+        return dfs(root, 0);
     }
 };
