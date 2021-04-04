@@ -1,7 +1,5 @@
-// 39. 组合总和
-// 给定一个无重复元素的数组 candidates 和一个目标数 target
-// 找出 candidates 中所有可以使数字和为 target 的组合
-// candidates 中的数字可以无限制重复被选取
+//
+// Created by bigfat on 2021/4/4.
 //
 
 #include <vector>
@@ -12,7 +10,7 @@ using std::vector;
 class Solution {
     void backtrack(vector<int> &candidates,
                    int bgn, int n,
-                   int target,
+                   int target, vector<bool> &used,
                    vector<int> &path, vector<vector<int>> &res){
         if(target == 0) {
             res.push_back(path);
@@ -25,12 +23,16 @@ class Solution {
             if (target - candidates[i] < 0)
                 break;
 
-            path.push_back(candidates[i]);
+            if (i>0 && candidates[i] == candidates[i-1] && !used[i-1])
+                continue;
 
-            // 注意：由于每一个元素可以重复使用，下一轮搜索的起点依然是 i
-            backtrack(candidates, i, n, target - candidates[i], path, res);
+            path.push_back(candidates[i]);
+            used[i] = true;
+
+            backtrack(candidates, i+1, n, target - candidates[i], used, path, res);
 
             path.pop_back();
+            used[i] = false;
         }
     }
 
@@ -44,8 +46,9 @@ public:
 
         std::sort(candidates.begin(), candidates.end());
         vector<int> path;
+        vector<bool> used(n, false);
 
-        backtrack(candidates, 0, n, target, path, res);
+        backtrack(candidates, 0, n, target, used, path, res);
 
         return res;
     }
