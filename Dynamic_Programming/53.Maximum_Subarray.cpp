@@ -41,6 +41,8 @@ public:
         int dp_i_1 = nums[0];
         int res = dp_i_1;
         for (int i = 1; i < n; i++){
+            // 连续，所以要看 dp[i-1] 是否非负
+            // 不是的话需要 从 dp[i] 开始另开一个序列
             dp = std::max(dp_i_1 + nums[i], nums[i]);
             dp_i_1 = dp;
 

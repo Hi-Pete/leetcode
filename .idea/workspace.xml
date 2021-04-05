@@ -11,14 +11,11 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b8625805-0275-46df-8134-f33f0c9bf7ec" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/DFS/17.Letter_Combinations_of_a_Phone_Number.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DFS/BackTracking/40.Combination_Sum.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/leetcode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="b8625805-0275-46df-8134-f33f0c9bf7ec" name="Default" comment="DFS">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DFS/BackTracking/39.Combination_Sum .cpp" beforeDir="false" afterPath="$PROJECT_DIR$/DFS/BackTracking/39.Combination_Sum .cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dynamic_Programming/300.Longest_Increasing_Subsequence.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Dynamic_Programming/300.Longest_Increasing_Subsequence.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dynamic_Programming/53.Maximum_Subarray.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Dynamic_Programming/53.Maximum_Subarray.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -274,6 +271,11 @@
       <option name="USE_PATTERN" value="false" />
       <method />
     </configuration>
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Offer" TARGET_NAME="Offer" CONFIG_NAME="Debug" TEST_MODE="SUITE_TEST">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -380,7 +382,8 @@
       <workItem from="1617284924100" duration="777000" />
       <workItem from="1617333332306" duration="12982000" />
       <workItem from="1617422258405" duration="3142000" />
-      <workItem from="1617543298174" duration="5317000" />
+      <workItem from="1617543298174" duration="5684000" />
+      <workItem from="1617598202542" duration="9598000" />
     </task>
     <task id="LOCAL-00001" summary="Tree shit to be continue">
       <created>1616826823873</created>
@@ -389,7 +392,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616826823873</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="DFS">
+      <created>1617549482989</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1617549482989</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -432,6 +442,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -444,7 +455,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="list shit" />
     <MESSAGE value="Tree shit to be continue" />
-    <option name="LAST_COMMIT_MESSAGE" value="Tree shit to be continue" />
+    <MESSAGE value="DFS" />
+    <option name="LAST_COMMIT_MESSAGE" value="DFS" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

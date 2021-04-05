@@ -6,17 +6,18 @@
 
 #include <vector>
 #include <map>
-#include <thread>
 
 using std::vector;
 using std::map;
 
 class Top_Down {
+    // dp[i] := 在子数组 [0..i] 上，且选了 nums[i] 时，的最长上升子序列
   public:
     int max;
+    // 备忘录
     map<int, int> cache;
 
-    int f(vector<int>& nums, int n) {
+    int dp(vector<int>& nums, int n) {
         // Memoization
         if (cache.find(n) != cache.end())
             return cache[n];
@@ -28,17 +29,19 @@ class Top_Down {
         int maxEndingHere = 1;
         for (int i = 1; i < n ; i++) {
             // 计算 nums 中前 i 位的最长递增子序列
-            int result = f(nums, i);    // 重复子问题
+            int result = dp(nums, i);    // 重复子问题
 
             // 最后一个数必须包含在 f(n) 子序列中
             // 满足则将结果 + 1（不用遍历最后一个元素）
             // 注意这里是有可能 maxEndingHere(前面的结果) > result+1 的
             // result 因为必须要选当前最后一位数，可能要舍弃长度
-            if (nums[i-1] < nums[n-1] && result+1 > maxEndingHere)
+            if (nums[i-1] < nums[n-1] &&
+                result +1 > maxEndingHere)
                 maxEndingHere = result + 1;
         }
-        if (max < maxEndingHere)
-            max = maxEndingHere;
+
+        max = (max < maxEndingHere)? maxEndingHere : max;
+
         cache.insert({n, maxEndingHere});
 
         return maxEndingHere;
@@ -49,7 +52,7 @@ class Top_Down {
             return 0;
 
         max = 1;
-        f(nums, nums.size());
+        dp(nums, nums.size());
 
         return max;
     }
