@@ -11,11 +11,12 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b8625805-0275-46df-8134-f33f0c9bf7ec" name="Default" comment="DFS">
+    <list default="true" id="b8625805-0275-46df-8134-f33f0c9bf7ec" name="Default" comment="DP">
+      <change afterPath="$PROJECT_DIR$/Dynamic_Programming/121.Best_Time_to_Buy_and_Sell_Stock.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dynamic_Programming/122.Best_Time_to_Buy_and_Sell_StockII.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Binary-search/binarySearch.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Binary-search/binarySearch.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dynamic_Programming/300.Longest_Increasing_Subsequence.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Dynamic_Programming/300.Longest_Increasing_Subsequence.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dynamic_Programming/53.Maximum_Subarray.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Dynamic_Programming/53.Maximum_Subarray.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -383,7 +384,9 @@
       <workItem from="1617333332306" duration="12982000" />
       <workItem from="1617422258405" duration="3142000" />
       <workItem from="1617543298174" duration="5684000" />
-      <workItem from="1617598202542" duration="9598000" />
+      <workItem from="1617598202542" duration="9635000" />
+      <workItem from="1617720383801" duration="2790000" />
+      <workItem from="1617800635590" duration="4360000" />
     </task>
     <task id="LOCAL-00001" summary="Tree shit to be continue">
       <created>1616826823873</created>
@@ -399,7 +402,14 @@
       <option name="project" value="LOCAL" />
       <updated>1617549482989</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="DP">
+      <created>1617639793751</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1617639793751</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -456,7 +466,8 @@
     <MESSAGE value="list shit" />
     <MESSAGE value="Tree shit to be continue" />
     <MESSAGE value="DFS" />
-    <option name="LAST_COMMIT_MESSAGE" value="DFS" />
+    <MESSAGE value="DP" />
+    <option name="LAST_COMMIT_MESSAGE" value="DP" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

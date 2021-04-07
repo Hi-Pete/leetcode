@@ -26,6 +26,20 @@ int binarySearch(vector<int> &arr, int target) {
     return -1;
 }
 
+int binarySearch(vector<int> &arr, int target, int bgn, int end) {
+    if(bgn > end)
+        return -1;
+
+    int mid = low + (end - bgn)/2;
+
+    if (arr[mid] == target)
+        return mid;
+    else if (arr[mid] < target)
+        return binarySearch(arr, target, mid +1, end);
+    else
+        return binarySearch(arr, target, bgn, mid -1);
+}
+
 int binarySearch_LeftBd_Open(vector<int> &arr, int target) {
     if (arr.size() == 0)
         return -1;
