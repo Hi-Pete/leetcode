@@ -1,0 +1,21 @@
+# The set of languages for which implicit dependencies are needed:
+set(CMAKE_DEPENDS_LANGUAGES
+  "CXX"
+  )
+# The set of files for implicit dependencies of each language:
+set(CMAKE_DEPENDS_CHECK_CXX
+  "/home/bigfat/workspace/leetcode/Dynamic_Programming/3.Longest_Substring_Without_Repeat.cpp" "/home/bigfat/workspace/leetcode/cmake-build-debug/CMakeFiles/Offer.dir/Dynamic_Programming/3.Longest_Substring_Without_Repeat.cpp.o"
+  "/home/bigfat/workspace/leetcode/Sort/Offer51.reversePair.cpp" "/home/bigfat/workspace/leetcode/cmake-build-debug/CMakeFiles/Offer.dir/Sort/Offer51.reversePair.cpp.o"
+  )
+set(CMAKE_CXX_COMPILER_ID "GNU")
+
+# The include file search paths:
+set(CMAKE_CXX_TARGET_INCLUDE_PATH
+  )
+
+# Targets to which this target links.
+set(CMAKE_TARGET_LINKED_INFO_FILES
+  )
+
+# Fortran module output directory.
+set(CMAKE_Fortran_TARGET_MODULE_DIR "")

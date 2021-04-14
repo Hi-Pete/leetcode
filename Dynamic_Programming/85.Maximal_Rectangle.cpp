@@ -1,6 +1,6 @@
-// 221. 最大正方形
-// 在一个由 '0' 和 '1' 组成的二维矩阵内
-// 找到只包含 '1' 的最大正方形，并返回其面积
+// 85. 最大矩形
+// 给定一个仅包含 0 和 1 、大小为 rows x cols 的二维二进制矩阵
+// 找出只包含 1 的最大矩形，并返回其面积
 //
 
 #include <vector>
@@ -24,13 +24,14 @@ public:
 
         for (int i = 0; i < m; ++i)
             for (int j = 0; j < n; ++j) {
-                if (matrix[i][j] == '1')
+                if (matrix[i][j] == '1'){
                     if ( i == 0 || j == 0)
                         dp[i][j] = 1;
                     else
-                        dp[i][j] = std::min(dp[i - 1][j - 1],
-                                            std::min(dp[i][j - 1],
-                                                     dp[i - 1][j])) + 1;
+                        dp[i][j] = 1 + std::min(dp[i - 1][j - 1],
+                                                std::min(dp[i][j - 1],
+                                                         dp[i - 1][j]));
+                }
 
                 max_side = std::max(max_side, dp[i][j]);
             }
