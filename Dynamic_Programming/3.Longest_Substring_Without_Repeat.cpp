@@ -36,6 +36,7 @@ public:
         for (int i = 0, j = 0; j < s.size() ; ++j) {
             if (map.find(s[j]) != map.end()){
                 int idx = map.find(s[j])->second;
+                map.erase(s[j]);
                 i = std::max(i, idx + 1);
             }
 
@@ -46,3 +47,11 @@ public:
         return max;
     }
 };
+
+int main() {
+    string str = "abcabcbb";
+    Solution solver;
+
+    int res = solver.lengthOfLongestSubstring_map(str);
+
+}

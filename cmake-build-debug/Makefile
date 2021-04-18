@@ -123,59 +123,32 @@ Offer/fast:
 	$(MAKE) -f CMakeFiles/Offer.dir/build.make CMakeFiles/Offer.dir/build
 .PHONY : Offer/fast
 
-Dynamic_Programming/3.Longest_Substring_Without_Repeat.o: Dynamic_Programming/3.Longest_Substring_Without_Repeat.cpp.o
+List/23.Merge_k_Sorted_Lists.o: List/23.Merge_k_Sorted_Lists.cpp.o
 
-.PHONY : Dynamic_Programming/3.Longest_Substring_Without_Repeat.o
-
-# target to build an object file
-Dynamic_Programming/3.Longest_Substring_Without_Repeat.cpp.o:
-	$(MAKE) -f CMakeFiles/Offer.dir/build.make CMakeFiles/Offer.dir/Dynamic_Programming/3.Longest_Substring_Without_Repeat.cpp.o
-.PHONY : Dynamic_Programming/3.Longest_Substring_Without_Repeat.cpp.o
-
-Dynamic_Programming/3.Longest_Substring_Without_Repeat.i: Dynamic_Programming/3.Longest_Substring_Without_Repeat.cpp.i
-
-.PHONY : Dynamic_Programming/3.Longest_Substring_Without_Repeat.i
-
-# target to preprocess a source file
-Dynamic_Programming/3.Longest_Substring_Without_Repeat.cpp.i:
-	$(MAKE) -f CMakeFiles/Offer.dir/build.make CMakeFiles/Offer.dir/Dynamic_Programming/3.Longest_Substring_Without_Repeat.cpp.i
-.PHONY : Dynamic_Programming/3.Longest_Substring_Without_Repeat.cpp.i
-
-Dynamic_Programming/3.Longest_Substring_Without_Repeat.s: Dynamic_Programming/3.Longest_Substring_Without_Repeat.cpp.s
-
-.PHONY : Dynamic_Programming/3.Longest_Substring_Without_Repeat.s
-
-# target to generate assembly for a file
-Dynamic_Programming/3.Longest_Substring_Without_Repeat.cpp.s:
-	$(MAKE) -f CMakeFiles/Offer.dir/build.make CMakeFiles/Offer.dir/Dynamic_Programming/3.Longest_Substring_Without_Repeat.cpp.s
-.PHONY : Dynamic_Programming/3.Longest_Substring_Without_Repeat.cpp.s
-
-Sort/Offer51.reversePair.o: Sort/Offer51.reversePair.cpp.o
-
-.PHONY : Sort/Offer51.reversePair.o
+.PHONY : List/23.Merge_k_Sorted_Lists.o
 
 # target to build an object file
-Sort/Offer51.reversePair.cpp.o:
-	$(MAKE) -f CMakeFiles/Offer.dir/build.make CMakeFiles/Offer.dir/Sort/Offer51.reversePair.cpp.o
-.PHONY : Sort/Offer51.reversePair.cpp.o
+List/23.Merge_k_Sorted_Lists.cpp.o:
+	$(MAKE) -f CMakeFiles/Offer.dir/build.make CMakeFiles/Offer.dir/List/23.Merge_k_Sorted_Lists.cpp.o
+.PHONY : List/23.Merge_k_Sorted_Lists.cpp.o
 
-Sort/Offer51.reversePair.i: Sort/Offer51.reversePair.cpp.i
+List/23.Merge_k_Sorted_Lists.i: List/23.Merge_k_Sorted_Lists.cpp.i
 
-.PHONY : Sort/Offer51.reversePair.i
+.PHONY : List/23.Merge_k_Sorted_Lists.i
 
 # target to preprocess a source file
-Sort/Offer51.reversePair.cpp.i:
-	$(MAKE) -f CMakeFiles/Offer.dir/build.make CMakeFiles/Offer.dir/Sort/Offer51.reversePair.cpp.i
-.PHONY : Sort/Offer51.reversePair.cpp.i
+List/23.Merge_k_Sorted_Lists.cpp.i:
+	$(MAKE) -f CMakeFiles/Offer.dir/build.make CMakeFiles/Offer.dir/List/23.Merge_k_Sorted_Lists.cpp.i
+.PHONY : List/23.Merge_k_Sorted_Lists.cpp.i
 
-Sort/Offer51.reversePair.s: Sort/Offer51.reversePair.cpp.s
+List/23.Merge_k_Sorted_Lists.s: List/23.Merge_k_Sorted_Lists.cpp.s
 
-.PHONY : Sort/Offer51.reversePair.s
+.PHONY : List/23.Merge_k_Sorted_Lists.s
 
 # target to generate assembly for a file
-Sort/Offer51.reversePair.cpp.s:
-	$(MAKE) -f CMakeFiles/Offer.dir/build.make CMakeFiles/Offer.dir/Sort/Offer51.reversePair.cpp.s
-.PHONY : Sort/Offer51.reversePair.cpp.s
+List/23.Merge_k_Sorted_Lists.cpp.s:
+	$(MAKE) -f CMakeFiles/Offer.dir/build.make CMakeFiles/Offer.dir/List/23.Merge_k_Sorted_Lists.cpp.s
+.PHONY : List/23.Merge_k_Sorted_Lists.cpp.s
 
 # Help Target
 help:
@@ -186,12 +159,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... Offer"
-	@echo "... Dynamic_Programming/3.Longest_Substring_Without_Repeat.o"
-	@echo "... Dynamic_Programming/3.Longest_Substring_Without_Repeat.i"
-	@echo "... Dynamic_Programming/3.Longest_Substring_Without_Repeat.s"
-	@echo "... Sort/Offer51.reversePair.o"
-	@echo "... Sort/Offer51.reversePair.i"
-	@echo "... Sort/Offer51.reversePair.s"
+	@echo "... List/23.Merge_k_Sorted_Lists.o"
+	@echo "... List/23.Merge_k_Sorted_Lists.i"
+	@echo "... List/23.Merge_k_Sorted_Lists.s"
 .PHONY : help
 
 

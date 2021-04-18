@@ -12,10 +12,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b8625805-0275-46df-8134-f33f0c9bf7ec" name="Default" comment="ugly nums">
-      <change afterPath="$PROJECT_DIR$/Dynamic_Programming/3.Longest_Substring_Without_Repeat.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sort/Offer51.reversePair.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dynamic_Programming/4.Median_of_Two_Sorted_Arrays .cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sort/215.Kth_Largest_Element_in_an_Array.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dynamic_Programming/3.Longest_Substring_Without_Repeat.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Dynamic_Programming/3.Longest_Substring_Without_Repeat.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/List/23.Merge_k_Sorted_Lists.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/List/23.Merge_k_Sorted_Lists.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Offer.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Offer.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Offer.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Offer.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Offer.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Offer.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Offer.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Offer.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Offer.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Offer.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Offer.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Offer.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Offer.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Offer.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Offer.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Offer.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Offer" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Offer" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Offer.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Offer.cbp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -251,7 +266,6 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
-    <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -281,6 +295,11 @@
       <option name="PATTERN" value="" />
       <option name="USE_PATTERN" value="false" />
       <method />
+    </configuration>
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Offer" TARGET_NAME="Offer" CONFIG_NAME="Debug" TEST_MODE="SUITE_TEST">
       <method v="2">
@@ -399,6 +418,12 @@
       <workItem from="1618246314968" duration="4642000" />
       <workItem from="1618277195777" duration="686000" />
       <workItem from="1618326428359" duration="2383000" />
+      <workItem from="1618405951063" duration="1479000" />
+      <workItem from="1618496850460" duration="628000" />
+      <workItem from="1618540026305" duration="714000" />
+      <workItem from="1618583802951" duration="3996000" />
+      <workItem from="1618674861946" duration="3543000" />
+      <workItem from="1618718288707" duration="5213000" />
     </task>
     <task id="LOCAL-00001" summary="Tree shit to be continue">
       <created>1616826823873</created>
@@ -510,11 +535,17 @@
           <line>61</line>
           <option name="timeStamp" value="42" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Dynamic_Programming/3.Longest_Substring_Without_Repeat.cpp</url>
+          <line>32</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
       <configuration name="CMakeRunConfiguration">
         <watch expression="track" />
+        <watch expression="map" />
       </configuration>
     </watches-manager>
   </component>

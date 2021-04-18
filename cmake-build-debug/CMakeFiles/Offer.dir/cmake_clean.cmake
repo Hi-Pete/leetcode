@@ -1,6 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Offer.dir/Sort/Offer51.reversePair.cpp.o"
-  "CMakeFiles/Offer.dir/Dynamic_Programming/3.Longest_Substring_Without_Repeat.cpp.o"
+  "CMakeFiles/Offer.dir/List/23.Merge_k_Sorted_Lists.cpp.o"
   "Offer.pdb"
   "Offer"
 )

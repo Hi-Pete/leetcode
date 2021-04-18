@@ -57,67 +57,41 @@ include CMakeFiles/Offer.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/Offer.dir/flags.make
 
-CMakeFiles/Offer.dir/Sort/Offer51.reversePair.cpp.o: CMakeFiles/Offer.dir/flags.make
-CMakeFiles/Offer.dir/Sort/Offer51.reversePair.cpp.o: ../Sort/Offer51.reversePair.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/bigfat/workspace/leetcode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Offer.dir/Sort/Offer51.reversePair.cpp.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Offer.dir/Sort/Offer51.reversePair.cpp.o -c /home/bigfat/workspace/leetcode/Sort/Offer51.reversePair.cpp
+CMakeFiles/Offer.dir/List/23.Merge_k_Sorted_Lists.cpp.o: CMakeFiles/Offer.dir/flags.make
+CMakeFiles/Offer.dir/List/23.Merge_k_Sorted_Lists.cpp.o: ../List/23.Merge_k_Sorted_Lists.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/bigfat/workspace/leetcode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Offer.dir/List/23.Merge_k_Sorted_Lists.cpp.o"
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Offer.dir/List/23.Merge_k_Sorted_Lists.cpp.o -c /home/bigfat/workspace/leetcode/List/23.Merge_k_Sorted_Lists.cpp
 
-CMakeFiles/Offer.dir/Sort/Offer51.reversePair.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Offer.dir/Sort/Offer51.reversePair.cpp.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/bigfat/workspace/leetcode/Sort/Offer51.reversePair.cpp > CMakeFiles/Offer.dir/Sort/Offer51.reversePair.cpp.i
+CMakeFiles/Offer.dir/List/23.Merge_k_Sorted_Lists.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Offer.dir/List/23.Merge_k_Sorted_Lists.cpp.i"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/bigfat/workspace/leetcode/List/23.Merge_k_Sorted_Lists.cpp > CMakeFiles/Offer.dir/List/23.Merge_k_Sorted_Lists.cpp.i
 
-CMakeFiles/Offer.dir/Sort/Offer51.reversePair.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Offer.dir/Sort/Offer51.reversePair.cpp.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/bigfat/workspace/leetcode/Sort/Offer51.reversePair.cpp -o CMakeFiles/Offer.dir/Sort/Offer51.reversePair.cpp.s
+CMakeFiles/Offer.dir/List/23.Merge_k_Sorted_Lists.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Offer.dir/List/23.Merge_k_Sorted_Lists.cpp.s"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/bigfat/workspace/leetcode/List/23.Merge_k_Sorted_Lists.cpp -o CMakeFiles/Offer.dir/List/23.Merge_k_Sorted_Lists.cpp.s
 
-CMakeFiles/Offer.dir/Sort/Offer51.reversePair.cpp.o.requires:
+CMakeFiles/Offer.dir/List/23.Merge_k_Sorted_Lists.cpp.o.requires:
 
-.PHONY : CMakeFiles/Offer.dir/Sort/Offer51.reversePair.cpp.o.requires
+.PHONY : CMakeFiles/Offer.dir/List/23.Merge_k_Sorted_Lists.cpp.o.requires
 
-CMakeFiles/Offer.dir/Sort/Offer51.reversePair.cpp.o.provides: CMakeFiles/Offer.dir/Sort/Offer51.reversePair.cpp.o.requires
-	$(MAKE) -f CMakeFiles/Offer.dir/build.make CMakeFiles/Offer.dir/Sort/Offer51.reversePair.cpp.o.provides.build
-.PHONY : CMakeFiles/Offer.dir/Sort/Offer51.reversePair.cpp.o.provides
+CMakeFiles/Offer.dir/List/23.Merge_k_Sorted_Lists.cpp.o.provides: CMakeFiles/Offer.dir/List/23.Merge_k_Sorted_Lists.cpp.o.requires
+	$(MAKE) -f CMakeFiles/Offer.dir/build.make CMakeFiles/Offer.dir/List/23.Merge_k_Sorted_Lists.cpp.o.provides.build
+.PHONY : CMakeFiles/Offer.dir/List/23.Merge_k_Sorted_Lists.cpp.o.provides
 
-CMakeFiles/Offer.dir/Sort/Offer51.reversePair.cpp.o.provides.build: CMakeFiles/Offer.dir/Sort/Offer51.reversePair.cpp.o
-
-
-CMakeFiles/Offer.dir/Dynamic_Programming/3.Longest_Substring_Without_Repeat.cpp.o: CMakeFiles/Offer.dir/flags.make
-CMakeFiles/Offer.dir/Dynamic_Programming/3.Longest_Substring_Without_Repeat.cpp.o: ../Dynamic_Programming/3.Longest_Substring_Without_Repeat.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/bigfat/workspace/leetcode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Offer.dir/Dynamic_Programming/3.Longest_Substring_Without_Repeat.cpp.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Offer.dir/Dynamic_Programming/3.Longest_Substring_Without_Repeat.cpp.o -c /home/bigfat/workspace/leetcode/Dynamic_Programming/3.Longest_Substring_Without_Repeat.cpp
-
-CMakeFiles/Offer.dir/Dynamic_Programming/3.Longest_Substring_Without_Repeat.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Offer.dir/Dynamic_Programming/3.Longest_Substring_Without_Repeat.cpp.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/bigfat/workspace/leetcode/Dynamic_Programming/3.Longest_Substring_Without_Repeat.cpp > CMakeFiles/Offer.dir/Dynamic_Programming/3.Longest_Substring_Without_Repeat.cpp.i
-
-CMakeFiles/Offer.dir/Dynamic_Programming/3.Longest_Substring_Without_Repeat.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Offer.dir/Dynamic_Programming/3.Longest_Substring_Without_Repeat.cpp.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/bigfat/workspace/leetcode/Dynamic_Programming/3.Longest_Substring_Without_Repeat.cpp -o CMakeFiles/Offer.dir/Dynamic_Programming/3.Longest_Substring_Without_Repeat.cpp.s
-
-CMakeFiles/Offer.dir/Dynamic_Programming/3.Longest_Substring_Without_Repeat.cpp.o.requires:
-
-.PHONY : CMakeFiles/Offer.dir/Dynamic_Programming/3.Longest_Substring_Without_Repeat.cpp.o.requires
-
-CMakeFiles/Offer.dir/Dynamic_Programming/3.Longest_Substring_Without_Repeat.cpp.o.provides: CMakeFiles/Offer.dir/Dynamic_Programming/3.Longest_Substring_Without_Repeat.cpp.o.requires
-	$(MAKE) -f CMakeFiles/Offer.dir/build.make CMakeFiles/Offer.dir/Dynamic_Programming/3.Longest_Substring_Without_Repeat.cpp.o.provides.build
-.PHONY : CMakeFiles/Offer.dir/Dynamic_Programming/3.Longest_Substring_Without_Repeat.cpp.o.provides
-
-CMakeFiles/Offer.dir/Dynamic_Programming/3.Longest_Substring_Without_Repeat.cpp.o.provides.build: CMakeFiles/Offer.dir/Dynamic_Programming/3.Longest_Substring_Without_Repeat.cpp.o
+CMakeFiles/Offer.dir/List/23.Merge_k_Sorted_Lists.cpp.o.provides.build: CMakeFiles/Offer.dir/List/23.Merge_k_Sorted_Lists.cpp.o
 
 
 # Object files for target Offer
 Offer_OBJECTS = \
-"CMakeFiles/Offer.dir/Sort/Offer51.reversePair.cpp.o" \
-"CMakeFiles/Offer.dir/Dynamic_Programming/3.Longest_Substring_Without_Repeat.cpp.o"
+"CMakeFiles/Offer.dir/List/23.Merge_k_Sorted_Lists.cpp.o"
 
 # External object files for target Offer
 Offer_EXTERNAL_OBJECTS =
 
-Offer: CMakeFiles/Offer.dir/Sort/Offer51.reversePair.cpp.o
-Offer: CMakeFiles/Offer.dir/Dynamic_Programming/3.Longest_Substring_Without_Repeat.cpp.o
+Offer: CMakeFiles/Offer.dir/List/23.Merge_k_Sorted_Lists.cpp.o
 Offer: CMakeFiles/Offer.dir/build.make
 Offer: CMakeFiles/Offer.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/bigfat/workspace/leetcode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable Offer"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/bigfat/workspace/leetcode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable Offer"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Offer.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -125,8 +99,7 @@ CMakeFiles/Offer.dir/build: Offer
 
 .PHONY : CMakeFiles/Offer.dir/build
 
-CMakeFiles/Offer.dir/requires: CMakeFiles/Offer.dir/Sort/Offer51.reversePair.cpp.o.requires
-CMakeFiles/Offer.dir/requires: CMakeFiles/Offer.dir/Dynamic_Programming/3.Longest_Substring_Without_Repeat.cpp.o.requires
+CMakeFiles/Offer.dir/requires: CMakeFiles/Offer.dir/List/23.Merge_k_Sorted_Lists.cpp.o.requires
 
 .PHONY : CMakeFiles/Offer.dir/requires
 

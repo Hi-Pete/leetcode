@@ -4,8 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/bigfat/workspace/leetcode/Dynamic_Programming/3.Longest_Substring_Without_Repeat.cpp" "/home/bigfat/workspace/leetcode/cmake-build-debug/CMakeFiles/Offer.dir/Dynamic_Programming/3.Longest_Substring_Without_Repeat.cpp.o"
-  "/home/bigfat/workspace/leetcode/Sort/Offer51.reversePair.cpp" "/home/bigfat/workspace/leetcode/cmake-build-debug/CMakeFiles/Offer.dir/Sort/Offer51.reversePair.cpp.o"
+  "/home/bigfat/workspace/leetcode/List/23.Merge_k_Sorted_Lists.cpp" "/home/bigfat/workspace/leetcode/cmake-build-debug/CMakeFiles/Offer.dir/List/23.Merge_k_Sorted_Lists.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
