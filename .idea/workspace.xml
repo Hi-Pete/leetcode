@@ -11,14 +11,11 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b8625805-0275-46df-8134-f33f0c9bf7ec" name="Default" comment="ugly nums">
-      <change afterPath="$PROJECT_DIR$/Dynamic_Programming/4.Median_of_Two_Sorted_Arrays .cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sort/215.Kth_Largest_Element_in_an_Array.cpp" afterDir="false" />
+    <list default="true" id="b8625805-0275-46df-8134-f33f0c9bf7ec" name="Default" comment="some basic review">
+      <change afterPath="$PROJECT_DIR$/Sort/435.Non-overlapping_Intervals.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sort/56.Merge_Intervals.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dynamic_Programming/3.Longest_Substring_Without_Repeat.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Dynamic_Programming/3.Longest_Substring_Without_Repeat.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/List/23.Merge_k_Sorted_Lists.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/List/23.Merge_k_Sorted_Lists.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Offer.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Offer.dir/CXX.includecache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Offer.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Offer.dir/DependInfo.cmake" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Offer.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Offer.dir/build.make" afterDir="false" />
@@ -26,8 +23,6 @@
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Offer.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Offer.dir/depend.internal" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Offer.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Offer.dir/depend.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Offer.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Offer.dir/link.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Offer.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Offer.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Offer" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Offer" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Offer.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Offer.cbp" afterDir="false" />
@@ -423,7 +418,7 @@
       <workItem from="1618540026305" duration="714000" />
       <workItem from="1618583802951" duration="3996000" />
       <workItem from="1618674861946" duration="3543000" />
-      <workItem from="1618718288707" duration="5213000" />
+      <workItem from="1618718288707" duration="14127000" />
     </task>
     <task id="LOCAL-00001" summary="Tree shit to be continue">
       <created>1616826823873</created>
@@ -460,7 +455,14 @@
       <option name="project" value="LOCAL" />
       <updated>1618071061375</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="some basic review">
+      <created>1618726622462</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1618726622462</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -520,7 +522,8 @@
     <MESSAGE value="DP" />
     <MESSAGE value="stock I - II" />
     <MESSAGE value="ugly nums" />
-    <option name="LAST_COMMIT_MESSAGE" value="ugly nums" />
+    <MESSAGE value="some basic review" />
+    <option name="LAST_COMMIT_MESSAGE" value="some basic review" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -540,12 +543,16 @@
           <line>32</line>
           <option name="timeStamp" value="43" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Sort/435.Non-overlapping_Intervals.cpp</url>
+          <line>11</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
       <configuration name="CMakeRunConfiguration">
-        <watch expression="track" />
-        <watch expression="map" />
+        <watch expression="intervals" />
       </configuration>
     </watches-manager>
   </component>

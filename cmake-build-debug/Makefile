@@ -123,32 +123,32 @@ Offer/fast:
 	$(MAKE) -f CMakeFiles/Offer.dir/build.make CMakeFiles/Offer.dir/build
 .PHONY : Offer/fast
 
-List/23.Merge_k_Sorted_Lists.o: List/23.Merge_k_Sorted_Lists.cpp.o
+Sort/435.Non-overlapping_Intervals.o: Sort/435.Non-overlapping_Intervals.cpp.o
 
-.PHONY : List/23.Merge_k_Sorted_Lists.o
+.PHONY : Sort/435.Non-overlapping_Intervals.o
 
 # target to build an object file
-List/23.Merge_k_Sorted_Lists.cpp.o:
-	$(MAKE) -f CMakeFiles/Offer.dir/build.make CMakeFiles/Offer.dir/List/23.Merge_k_Sorted_Lists.cpp.o
-.PHONY : List/23.Merge_k_Sorted_Lists.cpp.o
+Sort/435.Non-overlapping_Intervals.cpp.o:
+	$(MAKE) -f CMakeFiles/Offer.dir/build.make CMakeFiles/Offer.dir/Sort/435.Non-overlapping_Intervals.cpp.o
+.PHONY : Sort/435.Non-overlapping_Intervals.cpp.o
 
-List/23.Merge_k_Sorted_Lists.i: List/23.Merge_k_Sorted_Lists.cpp.i
+Sort/435.Non-overlapping_Intervals.i: Sort/435.Non-overlapping_Intervals.cpp.i
 
-.PHONY : List/23.Merge_k_Sorted_Lists.i
+.PHONY : Sort/435.Non-overlapping_Intervals.i
 
 # target to preprocess a source file
-List/23.Merge_k_Sorted_Lists.cpp.i:
-	$(MAKE) -f CMakeFiles/Offer.dir/build.make CMakeFiles/Offer.dir/List/23.Merge_k_Sorted_Lists.cpp.i
-.PHONY : List/23.Merge_k_Sorted_Lists.cpp.i
+Sort/435.Non-overlapping_Intervals.cpp.i:
+	$(MAKE) -f CMakeFiles/Offer.dir/build.make CMakeFiles/Offer.dir/Sort/435.Non-overlapping_Intervals.cpp.i
+.PHONY : Sort/435.Non-overlapping_Intervals.cpp.i
 
-List/23.Merge_k_Sorted_Lists.s: List/23.Merge_k_Sorted_Lists.cpp.s
+Sort/435.Non-overlapping_Intervals.s: Sort/435.Non-overlapping_Intervals.cpp.s
 
-.PHONY : List/23.Merge_k_Sorted_Lists.s
+.PHONY : Sort/435.Non-overlapping_Intervals.s
 
 # target to generate assembly for a file
-List/23.Merge_k_Sorted_Lists.cpp.s:
-	$(MAKE) -f CMakeFiles/Offer.dir/build.make CMakeFiles/Offer.dir/List/23.Merge_k_Sorted_Lists.cpp.s
-.PHONY : List/23.Merge_k_Sorted_Lists.cpp.s
+Sort/435.Non-overlapping_Intervals.cpp.s:
+	$(MAKE) -f CMakeFiles/Offer.dir/build.make CMakeFiles/Offer.dir/Sort/435.Non-overlapping_Intervals.cpp.s
+.PHONY : Sort/435.Non-overlapping_Intervals.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... Offer"
-	@echo "... List/23.Merge_k_Sorted_Lists.o"
-	@echo "... List/23.Merge_k_Sorted_Lists.i"
-	@echo "... List/23.Merge_k_Sorted_Lists.s"
+	@echo "... Sort/435.Non-overlapping_Intervals.o"
+	@echo "... Sort/435.Non-overlapping_Intervals.i"
+	@echo "... Sort/435.Non-overlapping_Intervals.s"
 .PHONY : help
 
 

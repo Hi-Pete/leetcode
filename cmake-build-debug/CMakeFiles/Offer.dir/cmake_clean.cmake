@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Offer.dir/List/23.Merge_k_Sorted_Lists.cpp.o"
+  "CMakeFiles/Offer.dir/Sort/435.Non-overlapping_Intervals.cpp.o"
   "Offer.pdb"
   "Offer"
 )

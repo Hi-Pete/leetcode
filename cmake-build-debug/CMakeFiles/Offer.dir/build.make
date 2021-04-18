@@ -57,38 +57,38 @@ include CMakeFiles/Offer.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/Offer.dir/flags.make
 
-CMakeFiles/Offer.dir/List/23.Merge_k_Sorted_Lists.cpp.o: CMakeFiles/Offer.dir/flags.make
-CMakeFiles/Offer.dir/List/23.Merge_k_Sorted_Lists.cpp.o: ../List/23.Merge_k_Sorted_Lists.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/bigfat/workspace/leetcode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Offer.dir/List/23.Merge_k_Sorted_Lists.cpp.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Offer.dir/List/23.Merge_k_Sorted_Lists.cpp.o -c /home/bigfat/workspace/leetcode/List/23.Merge_k_Sorted_Lists.cpp
+CMakeFiles/Offer.dir/Sort/435.Non-overlapping_Intervals.cpp.o: CMakeFiles/Offer.dir/flags.make
+CMakeFiles/Offer.dir/Sort/435.Non-overlapping_Intervals.cpp.o: ../Sort/435.Non-overlapping_Intervals.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/bigfat/workspace/leetcode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Offer.dir/Sort/435.Non-overlapping_Intervals.cpp.o"
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Offer.dir/Sort/435.Non-overlapping_Intervals.cpp.o -c /home/bigfat/workspace/leetcode/Sort/435.Non-overlapping_Intervals.cpp
 
-CMakeFiles/Offer.dir/List/23.Merge_k_Sorted_Lists.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Offer.dir/List/23.Merge_k_Sorted_Lists.cpp.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/bigfat/workspace/leetcode/List/23.Merge_k_Sorted_Lists.cpp > CMakeFiles/Offer.dir/List/23.Merge_k_Sorted_Lists.cpp.i
+CMakeFiles/Offer.dir/Sort/435.Non-overlapping_Intervals.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Offer.dir/Sort/435.Non-overlapping_Intervals.cpp.i"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/bigfat/workspace/leetcode/Sort/435.Non-overlapping_Intervals.cpp > CMakeFiles/Offer.dir/Sort/435.Non-overlapping_Intervals.cpp.i
 
-CMakeFiles/Offer.dir/List/23.Merge_k_Sorted_Lists.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Offer.dir/List/23.Merge_k_Sorted_Lists.cpp.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/bigfat/workspace/leetcode/List/23.Merge_k_Sorted_Lists.cpp -o CMakeFiles/Offer.dir/List/23.Merge_k_Sorted_Lists.cpp.s
+CMakeFiles/Offer.dir/Sort/435.Non-overlapping_Intervals.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Offer.dir/Sort/435.Non-overlapping_Intervals.cpp.s"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/bigfat/workspace/leetcode/Sort/435.Non-overlapping_Intervals.cpp -o CMakeFiles/Offer.dir/Sort/435.Non-overlapping_Intervals.cpp.s
 
-CMakeFiles/Offer.dir/List/23.Merge_k_Sorted_Lists.cpp.o.requires:
+CMakeFiles/Offer.dir/Sort/435.Non-overlapping_Intervals.cpp.o.requires:
 
-.PHONY : CMakeFiles/Offer.dir/List/23.Merge_k_Sorted_Lists.cpp.o.requires
+.PHONY : CMakeFiles/Offer.dir/Sort/435.Non-overlapping_Intervals.cpp.o.requires
 
-CMakeFiles/Offer.dir/List/23.Merge_k_Sorted_Lists.cpp.o.provides: CMakeFiles/Offer.dir/List/23.Merge_k_Sorted_Lists.cpp.o.requires
-	$(MAKE) -f CMakeFiles/Offer.dir/build.make CMakeFiles/Offer.dir/List/23.Merge_k_Sorted_Lists.cpp.o.provides.build
-.PHONY : CMakeFiles/Offer.dir/List/23.Merge_k_Sorted_Lists.cpp.o.provides
+CMakeFiles/Offer.dir/Sort/435.Non-overlapping_Intervals.cpp.o.provides: CMakeFiles/Offer.dir/Sort/435.Non-overlapping_Intervals.cpp.o.requires
+	$(MAKE) -f CMakeFiles/Offer.dir/build.make CMakeFiles/Offer.dir/Sort/435.Non-overlapping_Intervals.cpp.o.provides.build
+.PHONY : CMakeFiles/Offer.dir/Sort/435.Non-overlapping_Intervals.cpp.o.provides
 
-CMakeFiles/Offer.dir/List/23.Merge_k_Sorted_Lists.cpp.o.provides.build: CMakeFiles/Offer.dir/List/23.Merge_k_Sorted_Lists.cpp.o
+CMakeFiles/Offer.dir/Sort/435.Non-overlapping_Intervals.cpp.o.provides.build: CMakeFiles/Offer.dir/Sort/435.Non-overlapping_Intervals.cpp.o
 
 
 # Object files for target Offer
 Offer_OBJECTS = \
-"CMakeFiles/Offer.dir/List/23.Merge_k_Sorted_Lists.cpp.o"
+"CMakeFiles/Offer.dir/Sort/435.Non-overlapping_Intervals.cpp.o"
 
 # External object files for target Offer
 Offer_EXTERNAL_OBJECTS =
 
-Offer: CMakeFiles/Offer.dir/List/23.Merge_k_Sorted_Lists.cpp.o
+Offer: CMakeFiles/Offer.dir/Sort/435.Non-overlapping_Intervals.cpp.o
 Offer: CMakeFiles/Offer.dir/build.make
 Offer: CMakeFiles/Offer.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/bigfat/workspace/leetcode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable Offer"
@@ -99,7 +99,7 @@ CMakeFiles/Offer.dir/build: Offer
 
 .PHONY : CMakeFiles/Offer.dir/build
 
-CMakeFiles/Offer.dir/requires: CMakeFiles/Offer.dir/List/23.Merge_k_Sorted_Lists.cpp.o.requires
+CMakeFiles/Offer.dir/requires: CMakeFiles/Offer.dir/Sort/435.Non-overlapping_Intervals.cpp.o.requires
 
 .PHONY : CMakeFiles/Offer.dir/requires
 

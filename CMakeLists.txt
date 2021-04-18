@@ -3,5 +3,5 @@ project(Offer)
 
 set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -std=c++11")
 
-set(SOURCE_FILES List/23.Merge_k_Sorted_Lists.cpp)
-add_executable(Offer ${SOURCE_FILES} List/23.Merge_k_Sorted_Lists.cpp)
+set(SOURCE_FILES Sort/435.Non-overlapping_Intervals.cpp)
+add_executable(Offer ${SOURCE_FILES} Sort/435.Non-overlapping_Intervals.cpp)
