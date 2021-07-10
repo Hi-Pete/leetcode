@@ -39,9 +39,12 @@ public:
                   [] (const vector<int> &a, const vector<int> &b) -> bool { return a[0] < b[0] ; });
 
         int end = intervals[0][1];
+        // 记录删除的区间个数
         int count = 0;
         for (int i = 0; i < intervals.size(); ++i) {
+            // 若区间有重叠
             if (intervals[i][0] < end){
+                // 删除结束时间晚的区间
                 end = std::min(end, intervals[i][1]);
                 count++;
             } else
@@ -52,6 +55,29 @@ public:
     }
 };
 
+class GreedySolution_endTime {
+public:
+    int eraseOverlapIntervals(vector<vector<int>>& intervals) {
+        if (intervals.size() == 0)
+            return 0;
+
+        std::sort(intervals.begin(), intervals.end(),
+                  [] (const vector<int> &a, const vector<int> &b) -> bool { return a[1] < b[1] ; });
+
+        // 记录最多少不重叠区间
+        int end = intervals[0][1];
+        int count = 1;
+        for (int i = 1; i < intervals.size(); ++i) {
+            if (end <= intervals[i][0]) {
+                end = intervals[i][1];
+                count++;
+            }
+        }
+
+        return intervals.size() - count;
+    }
+};
+
 int main() {
     vector<vector<int>> nums;
     nums.push_back({1, 2});
@@ -59,6 +85,6 @@ int main() {
     nums.push_back({3, 4});
     nums.push_back({1, 3});
 
-    Solution solver;
+    GreedySolution_endTime solver;
     int res = solver.eraseOverlapIntervals(nums);
 }
