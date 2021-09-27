@@ -11,7 +11,7 @@ int binarySearch(vector<int> &arr, int target) {
         return -1;
 
     int left = 0, right = arr.size() -1;        // 搜索区间（左闭右闭区间）
-    while(left <= right){         // 搜索区间为空 时终止循环
+    while(left <= right) {      // 搜索区间为空 时终止循环
         int mid = left + (right - left)/2;  // 防止溢出
         if(arr[mid] == target){
             return mid;
@@ -30,7 +30,7 @@ int binarySearch(vector<int> &arr, int target, int bgn, int end) {
     if(bgn > end)
         return -1;
 
-    int mid = low + (end - bgn)/2;
+    int mid = bgn + (end - bgn)/2;
 
     if (arr[mid] == target)
         return mid;

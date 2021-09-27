@@ -33,6 +33,7 @@ public:
                 stack.push(pNode);
                 pNode = pNode->left;
             }
+
             pNode = stack.top();
             stack.pop();
             ret.push_back(pNode->val);

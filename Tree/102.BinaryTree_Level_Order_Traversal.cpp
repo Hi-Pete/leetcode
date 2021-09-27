@@ -58,7 +58,6 @@ public:
                 nodes.push_back(pNode->left);
                 ++nextLevel;
             }
-
             if(pNode->right!=nullptr){
                 nodes.push_back(pNode->right);
                 ++nextLevel;
@@ -67,10 +66,12 @@ public:
             if(toBePush==0){
                 ret.push_back(levelNodes);
                 levelNodes.clear();
+
                 toBePush = nextLevel;
                 nextLevel = 0;
             }
         }
+
         return ret;
     }
 };

@@ -296,7 +296,6 @@ public:
     }
 };
 
-
 class QuickSort {
     void exchang(vector<int> &arr, int i, int j) {
         int tmp = arr[i];
@@ -331,7 +330,7 @@ public:
         if (bgn >= end)
             return;
 
-        int mid = partition_two_pointers(arr, bgn, end);
+        int mid = partition(arr, bgn, end);
 
         quickSortCore(arr, bgn, mid - 1);
         quickSortCore(arr, mid + 1, end);
@@ -363,7 +362,7 @@ public:
             }
         }
 
-        if (left == right && arr[right] > pivot)
+        if (arr[right] > pivot)
             right--;
         if (right != bgn)
             exchang(arr, bgn, right);
@@ -384,13 +383,13 @@ public:
                 right--;
 
             if (left < right) {
-                exchang(arr, left, right);
+                exchang(arr, left,  right);
                 left++;
                 right--;
             }
         }
 
-        if (left == right && arr[right] > pivot)
+        if (arr[right] > pivot)
             right--;
 
         exchang(arr, bgn, right);
@@ -400,7 +399,6 @@ public:
 };
 
 class MergeSort {
-  public:
     vector<int> merge(vector<int> &arr1, vector<int> &arr2){
         vector<int> res(arr1.size() + arr2.size());
 
@@ -439,7 +437,7 @@ class MergeSort {
 
         return merge(leftL, rightN);
     }
-
+public:
     void mergeSort(vector<int> &arr) {
         if(arr.size()==0)
             return;
@@ -451,11 +449,13 @@ class MergeSort {
 
     }
 
+
+
     // 将 result 的 [bgn, mid] 和 [mid + 1, end] 区间合并
     void mergePrem(vector<int> &arr,
                    int bgn, int end,
-                   vector<int> &res){
-
+                   vector<int> &res)
+    {
         int mid = (bgn + end)/2;
         int bgn_1 = bgn, end_1 = mid,
             bgn_2 = mid + 1, end_2 = end;
@@ -463,7 +463,7 @@ class MergeSort {
         int index1 = bgn_1;
         int index2 = bgn_2;
         int resIndex = bgn;
-        while (index1 <= end_1 && index2 <= end_2){
+        while (index1 <= end_1 && index2 <= end_2) {
             if (arr[index1] <= arr[index2])
                 res[resIndex++] = arr[index1++];
             else
@@ -506,10 +506,10 @@ class MergeSort {
 };
 
 int main(){
-    MergeSort sort;
+    QuickSort sort;
     vector<int> arr = {13, 17, 25, 23, 45, 32, 51, 72};
 
-    sort.mergeSort_prem(arr);
+    sort.quickSort(arr);
 
     for (int i = 0; i < arr.size(); ++i)
         printf("%d ", arr[i]);
