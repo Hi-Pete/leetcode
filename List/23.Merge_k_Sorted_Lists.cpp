@@ -4,9 +4,11 @@
 //
 
 #include <vector>
+#include <queue>
 #include <climits>
 
 using std::vector;
+using std::priority_queue;
 
 struct ListNode {
     int val;
@@ -46,6 +48,7 @@ class MergeSort {
 
         int mid = (bgn + end) >> 1;
 
+        // 后序遍历位，两两切分链表 归并融合
         return mergeTwoLists(merge(lists, bgn, mid), merge(lists, mid + 1, end));
     }
 
@@ -57,5 +60,34 @@ public:
 };
 
 class PriorQueue {
+    static bool comparelstNode(ListNode* a, ListNode* b){
+        return a->val > b->val;
+    }
+public:
+    ListNode* mergeKLists(vector<ListNode*>& lists) {
+        ListNode* dummyHead = new ListNode(0);
+        ListNode* pNode = dummyHead;
+
+        int k = lists.size();
+        priority_queue<ListNode*, vector<ListNode*>, decltype(comparelstNode) *> min_Heap(comparelstNode);
+        // 所有链表头节点入队
+        for (int i = 0; i < k; ++i)
+            if(lists[i])
+                min_Heap.push(lists[i]);
+
+        // 在大小为　ｋ　的最小堆中滚动向结果链表压入当前最小值
+        while (!min_Heap.empty()){
+            ListNode* node = min_Heap.top();
+            min_Heap.pop();
+
+            pNode->next = node;
+            pNode = pNode->next;
+
+            if(node->next)
+                min_Heap.push(node->next);
+        }
+
+        return dummyHead->next;
+    }
 
 };

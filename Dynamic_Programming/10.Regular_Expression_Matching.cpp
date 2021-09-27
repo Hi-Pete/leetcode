@@ -26,9 +26,6 @@ public:
             return s[i - 1] == p[j - 1];
         };
 
-        // dp[i][j] 表示以 i 截止的字符串是否可以被以 j 截止的正则表达式匹配
-        // 根据正则表达式的不同情况,即 字符 星号 点号
-        // 我们可以分情况讨论来更新 dp 数组
         vector<vector<int>> dp(m + 1, vector<int>(n + 1, false));
 
         // base case
@@ -37,16 +34,22 @@ public:
         for (int i = 0; i <= m; ++i) {
             for (int j = 1; j <= n; ++j) {
                 if (p[j - 1] == '*') {
-                    dp[i][j] |= dp[i][j - 2];
-
+                    dp[i][j] = dp[i][j -2];
                     if (matches(i, j - 1))
-                        dp[i][j] |= dp[i - 1][j];
-                }
-                else
-                    if (matches(i, j))
-                        dp[i][j] |= dp[i - 1][j - 1];
+                        dp[i][j] |= dp[i-1][j];
+                } else
+                if (matches(i, j))
+                    dp[i][j] = dp[i - 1][j - 1];
             }
         }
         return dp[m][n];
     }
 };
+
+int main() {
+    string str1 = "aa", str2 = "a*";
+    Solution solver;
+    bool res = solver.isMatch(str1, str2);
+
+    return 0;
+}
